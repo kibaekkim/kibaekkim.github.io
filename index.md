@@ -2,5 +2,6 @@
 layout: default
 ---
 
-Here's how you link to a [webpage in your site](/teaching/), and
-here's a link to an [external site](https://www.google.com)
+<img style="float:left;padding:20px;" src="/image/kibaek_kim_small.jpg">
+
+I am an Assistant Computational Mathematician in Mathematics and Computer Science Division at Argonne National Laboratory. My primary research focus is on optimization modeling and solutions for large-scale optimization (in particular, stochastic programming and mixed integer programming) capable of running on high performance computing systems, in applications to complex energy systems and resilient infrastructure systems. Before joining Argonne, I obtained a Ph.D. degree under the supervision of Dr. Sanjay Mehrotra in Industrial Engineering and Management Sciences from Northwestern University.
