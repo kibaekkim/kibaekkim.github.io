@@ -2,7 +2,7 @@
 title: Kibaek Kim
 email: kimk@anl.gov
 description: > # this means to ignore newlines until "baseurl:"
-  I am an Assistant Computational Mathematician in Mathematics and Computer Science Division at Argonne National Laboratory.
+  This is a personal website.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://kibaekkim.github.io" # the base hostname & protocol for your site
 twitter_username: kkimopt
