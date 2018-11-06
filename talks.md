@@ -6,6 +6,8 @@ permalink: /talks/
 
 ## Conferences/Workshops
 
+1. Temporal Decomposition of the Production Cost Modeling in Power Systems, INFORMS 2018 Annual, Phoenix, November, 2018
+
 1. Branching Strategies on Decomposition Methods for Mixed-Integer Programming, ISMP 2018, Bordeaux, France, July, 2018
 
 1. An Asynchoronous Dual Decomposition Algorithm for Security Constrained Unit Commitment under Contingency Events, PSCC 2018, Dublin, Ireland, June, 2018
