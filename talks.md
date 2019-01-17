@@ -6,6 +6,8 @@ permalink: /talks/
 
 ## Conferences/Workshops
 
+1. A Scalable Decomposition Approach for Stochastic Mixed-Integer Programs, UG Workshop 2019, Berlin, Germany, 2019
+
 1. Temporal Decomposition of the Production Cost Modeling in Power Systems, INFORMS 2018 Annual, Phoenix, November, 2018
 
 1. Branching Strategies on Decomposition Methods for Mixed-Integer Programming, ISMP 2018, Bordeaux, France, July, 2018
