@@ -16,7 +16,10 @@ permalink: /AboutMe/
 # Activities
 - Referee services: Annals of Operations Research, Computational Optimization and Applications, Computers and Operations Research, European Journal of Operational Research, IEEE Transactions on Power Systems, IIE Transactions, INFORMS Journal on Computing, Interfaces, Journal of the Operations Research Society, Mathematical Programming, Operations Research, and SIAM Journal on Optimization
 - Chairing Sessions and Minisymposiums at Conferences
-  - High-performance Computing in Optimization, SIAM Conference on Parallel Processing for Scientific Computing 2018, Tokyo, Japan
+  - Recent Advances in Stochastic Integer Programming, International Conference on Stochastic Programming, Norway, 2019
+  - Scalable Computing: Paradigms, Tools, and Applications, SIAM Conference on Computational Science and Engineering, Spokane, WA, 2019
+  - High Performance Computing in Optimization, International Symposium on Mathematical Programming, Bordeaux, France, 2018
+  - High-performance Computing in Optimization I,II,III (three mini-symposia), SIAM Conference on Parallel Processing for Scientific Computing 2018, Tokyo, Japan
   - Chance-constrained, Stochastic and Robust MIP and Applications, INFORMS Annual Meeting, Houston, TX, 2017
   - Optimization Algorithms for High-Performance and Embedded Computing Systems, SIAM Conference on Optimization, Vancouver, Canada, 2017
   - Control, Optimization, and Computations for Energy Systems, INFORMS Computing Society Meeting, Austin, TX, 2017
