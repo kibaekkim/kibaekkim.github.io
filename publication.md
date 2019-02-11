@@ -8,7 +8,7 @@ permalink: /publication/
 
 1. Brian Dandurand, Kibaek Kim, and Sven Leyffer. "Evaluating Optimal Power Flow Formulations for Assessing System Vulnerability" *submitted*, 2018
 
-1. Vishwas Rao, Kibaek Kim, Michel Schanen, Daniel A. Maldonado, Cosmin G. Petra, and Mihai Anitescu. "A Multiperiod Optimization-Based Metric of Grid Resilience" *submitted*, 2018
+1. Vishwas Rao, Kibaek Kim, Michel Schanen, Daniel A. Maldonado, Cosmin G. Petra, and Mihai Anitescu. "A Multiperiod Optimization-Based Metric of Grid Resilience" Proceedings in *IEEE Power Engineering Society General Meeting (accepted)*, 2019
 
 1. Kibaek Kim and Brian Dandurand. "Scalable Branching on Dual Decomposition of Stochastic Mixed-Integer Programming Problems" *submitted*, 2018 [[preprint]](http://www.optimization-online.org/DB_HTML/2018/10/6867.html)
 
