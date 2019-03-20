@@ -16,7 +16,7 @@ permalink: /publication/
 
 1. Kibaek Kim, Mihai Anitescu, and Victor M. Zavala. "An Asynchronous Decomposition Algorithm for Security Constrained Unit Commitment under Contingency Events" *Proceedings in Power System Computation Conference*, 2018 [[preprint]](http://www.mcs.anl.gov/~kibaekkim/PSCC-KimAnitescuZavala.pdf) [[link]](https://doi.org/10.23919/PSCC.2018.8450937)
 
-1. Kibaek Kim, Cosmin G. Petra, and Victor M. Zavala. "An Asynchronous Bundle-Trust-Region Method for Dual Decomposition of Stochastic Mixed-Integer Programming" *SIAM Journal on Optimization*, 2019 [[preprint]](http://www.mcs.anl.gov/~kibaekkim/AsyncDD-preprint.pdf) [[link]](https://epubs.siam.org/doi/abs/10.1137/17M1148189)
+1. Kibaek Kim, Cosmin G. Petra, and Victor M. Zavala. "An Asynchronous Bundle-Trust-Region Method for Dual Decomposition of Stochastic Mixed-Integer Programming" *SIAM Journal on Optimization*, 2019 [[preprint]](https://kibaekkim.github.io/papers/M114818.pdf) [[link]](https://epubs.siam.org/doi/abs/10.1137/17M1148189)
 
 1. Kibaek Kim. "An Optimization Approach for Identifying and Prioritizing Critical Components in a Power System." *(under review)*, 2017 [[preprint]](http://www.mcs.anl.gov/publication/optimization-approach-identifying-and-prioritizing-critical-components-power-system)
 
