@@ -4,6 +4,8 @@ title: Publication
 permalink: /publication/
 ---
 
+1. Frederic Petit, Duane Verner, Kibaek Kim, and Lawrence Paul Lewis. "DISrupt - Decision and Infrastructure Sciences for Identifying Disruptions, Dependencies, and Infrastructure Systems Risk" submitted, 2019
+
 1. Cheolmin Kim, Kibaek Kim, Prasanna Balaprakash, and Mihai Anitescu. "Graph Convolutional Neural Networks for Optimal Load Shedding under Line Contingency" Proceedings in *IEEE Power Engineering Society General Meeting (accepted)*, 2019 [[preprint](https://kibaekkim.github.io/papers/PES-GCN-preprint.pdf)]
 
 1. Brian Dandurand, Kibaek Kim, and Sven Leyffer. "Evaluating Optimal Power Flow Formulations for Assessing System Vulnerability" *submitted*, 2018
