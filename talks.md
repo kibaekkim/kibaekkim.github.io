@@ -6,6 +6,10 @@ permalink: /talks/
 
 ## Conferences/Workshops
 
+1. Branching Strategies on Decomposition Methods for Mixed-Integer Programming, ICSP 2019, Trondheim, Norway, 2019
+
+1. A Lagrangian Dual Approach for Identifying the Worst Contingencies in Power Systems, ICERM Workshop on Mathematical Optimization of Systems Impacted by Rare, High-Impact Random Events, Providence, RI, 2019
+
 1. A Scalable Decomposition Approach for Stochastic Mixed-Integer Programs, UG Workshop 2019, Berlin, Germany, 2019
 
 1. Temporal Decomposition of the Production Cost Modeling in Power Systems, INFORMS 2018 Annual, Phoenix, November, 2018
