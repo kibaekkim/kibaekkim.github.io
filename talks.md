@@ -6,6 +6,10 @@ permalink: /talks/
 
 ## Conferences/Workshops
 
+1. Two-stage Wasserstein Distributionally Robust Convex Programs With Zero-one Uncertainties, INFORMS Annual Meeting, Seattle, WA, October 2019 (presented by Anirudh Subramanyam)
+
+1. A Data-driven Branching On Decomposition of Stochastic Mixed-integer Programs, INFORMS Annual Meeting, Seattle, WA, October 2019
+
 1. Branching Strategies on Decomposition Methods for Mixed-Integer Programming, ICSP 2019, Trondheim, Norway, July 2019
 
 1. A Lagrangian Dual Approach for Identifying the Worst Contingencies in Power Systems, ICERM Workshop on Mathematical Optimization of Systems Impacted by Rare, High-Impact Random Events, Providence, RI, June 2019
