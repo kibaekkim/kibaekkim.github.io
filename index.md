@@ -6,6 +6,13 @@ layout: default
 
 I am an Assistant Computational Mathematician in [Laboratory for Applied Mathematics, Numerical Software, and Statistics](https://www.anl.gov/mcs/lans), [Mathematics and Computer Science Division](https://www.anl.gov/mcs) at [Argonne National Laboratory](https://www.anl.gov). My primary research focus is on optimization modeling and solutions for large-scale optimization (in particular, stochastic programming and mixed integer programming) capable of running on high performance computing systems, in applications to complex energy systems and resilient infrastructure systems. Before joining Argonne, I obtained a Ph.D. degree under the supervision of Dr. Sanjay Mehrotra in Industrial Engineering and Management Sciences from Northwestern University.
 
+### Active Projects
+
+- Data-Driven Optimization under Uncertainty: Parallel Algorithms and Solver
+- [ExaSGD: Optimizing Stochastic Grid Dynamics at Exascale](https://www.exascaleproject.org/project/exasgd-optimizing-stochastic-grid-dynamics-at-exascale/)
+- [MACSER: Multifaceted Mathematics for Rare, High-Impact Events in Complex Energy and Environment Systems](https://www.anl.gov/mcs/macser-multifaceted-mathematics-for-rare-highimpact-events-in-complex-energy-and-environment-systems)
+- [Advanced Grid Modeling](https://www.anl.gov/es/advanced-grid-modeling)
+
 ### Resarch Position Openings
 
 - Postdocs for Data-Driven Optimization: [APPLY](http://bit.ly/2lGXtj2)
