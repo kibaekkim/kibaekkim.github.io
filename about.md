@@ -15,8 +15,10 @@ permalink: /AboutMe/
 - Best Poster Award (selected among nearly 2,000 posters), American College of Cardiology's 61st Annual Scientific Session & Expo, 2012
 
 # Activities
-- Referee services: Annals of Operations Research, Computational Optimization and Applications, Computers and Operations Research, European Journal of Operational Research, IEEE Transactions on Power Systems, IIE Transactions, INFORMS Journal on Computing, Interfaces, Journal of the Operations Research Society, Mathematical Programming, Operations Research, and SIAM Journal on Optimization
+- Editorship: Naval Research Logistics (AE)
+- Referee services: Annals of Operations Research, Computational Optimization and Applications, Computers and Operations Research, European Journal of Operational Research, IEEE Transactions on Power Systems, IIE Transactions, INFORMS Journal on Computing, Interfaces, Journal of the Operations Research Society, Management Science, Mathematical Programming, Operations Research, and SIAM Journal on Optimization
 - Chairing Sessions and Minisymposiums at Conferences
+  - Distributionally Robust Optimization: Modeling, Algorithms, and Applications I and II (two sessions), INFORMS 2019 Annual Meeting, Seattle, WA, 2019
   - Recent Advances in Stochastic Integer Programming, International Conference on Stochastic Programming, Norway, 2019
   - Scalable Computing: Paradigms, Tools, and Applications, SIAM Conference on Computational Science and Engineering, Spokane, WA, 2019
   - High Performance Computing in Optimization, International Symposium on Mathematical Programming, Bordeaux, France, 2018
