@@ -16,7 +16,7 @@ permalink: /AboutMe/
 
 # Activities
 - Editorship: Naval Research Logistics (AE)
-- Referee services: Annals of Operations Research, Computational Optimization and Applications, Computers and Operations Research, European Journal of Operational Research, IEEE Transactions on Power Systems, IIE Transactions, INFORMS Journal on Computing, Interfaces, Journal of the Operations Research Society, Management Science, Mathematical Programming, Operations Research, and SIAM Journal on Optimization
+- Referee services: Annals of Operations Research, Computational Optimization and Applications, Computers and Operations Research, European Journal of Operational Research, IEEE Transactions on Cloud Computing, IEEE Transactions on Power Systems, IIE Transactions, INFORMS Journal on Computing, Interfaces, Journal of the Operations Research Society, Management Science, Mathematical Programming, Operations Research, Optimization Methods and Software, and SIAM Journal on Optimization
 - Chairing Sessions and Minisymposiums at Conferences
   - Distributionally Robust Optimization: Modeling, Algorithms, and Applications I and II (two sessions), INFORMS 2019 Annual Meeting, Seattle, WA, 2019
   - Recent Advances in Stochastic Integer Programming, International Conference on Stochastic Programming, Norway, 2019
