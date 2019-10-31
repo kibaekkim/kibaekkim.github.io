@@ -8,7 +8,7 @@ I am an Assistant Computational Mathematician in [Laboratory for Applied Mathema
 
 ### Active Projects
 
-- Data-Driven Optimization under Uncertainty: Parallel Algorithms and Solver
+- [Data-Driven Optimization under Uncertainty: Parallel Algorithms and Solver](https://www.anl.gov/mcs/datadriven-optimization-under-uncertainty-parallel-algorithms-and-solver)
 - [ExaSGD: Optimizing Stochastic Grid Dynamics at Exascale](https://www.exascaleproject.org/project/exasgd-optimizing-stochastic-grid-dynamics-at-exascale/)
 - [MACSER: Multifaceted Mathematics for Rare, High-Impact Events in Complex Energy and Environment Systems](https://www.anl.gov/mcs/macser-multifaceted-mathematics-for-rare-highimpact-events-in-complex-energy-and-environment-systems)
 - [Advanced Grid Modeling](https://www.anl.gov/es/advanced-grid-modeling)
