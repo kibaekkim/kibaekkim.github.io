@@ -4,7 +4,7 @@ layout: default
 
 <img style="float:right;padding:20px;" width="200" src="/images/Kim-photoshot.jpg"/>
 
-I am an Assistant Computational Mathematician in [Laboratory for Applied Mathematics, Numerical Software, and Statistics](https://www.anl.gov/mcs/lans), [Mathematics and Computer Science Division](https://www.anl.gov/mcs) at [Argonne National Laboratory](https://www.anl.gov). My primary research focus is on optimization modeling and solutions for large-scale optimization (in particular, stochastic programming and mixed integer programming) capable of running on high performance computing systems, in applications to complex energy systems and resilient infrastructure systems. Before joining Argonne, I obtained a Ph.D. degree under the supervision of Dr. Sanjay Mehrotra in Industrial Engineering and Management Sciences from Northwestern University.
+I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numerical Software, and Statistics](https://www.anl.gov/mcs/lans), [Mathematics and Computer Science Division](https://www.anl.gov/mcs) at [Argonne National Laboratory](https://www.anl.gov). My primary research focus is on optimization modeling and solutions for large-scale optimization (in particular, stochastic programming and mixed integer programming) capable of running on high performance computing systems, in applications to complex energy systems and resilient infrastructure systems. Before joining Argonne, I obtained a Ph.D. degree under the supervision of Dr. Sanjay Mehrotra in Industrial Engineering and Management Sciences from Northwestern University.
 
 ### Active Projects
 
