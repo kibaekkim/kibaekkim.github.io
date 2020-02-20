@@ -8,9 +8,9 @@ permalink: /publication/
 
 1. Brian Dandurand, Kibaek Kim, and Sven Leyffer. "A Lagrangian Dual Approach for Identifying the Worst Contingencies in Power Systems" *Optimization Online*, 2019 [[preprint]](http://www.optimization-online.org/DB_FILE/2019/07/7306.pdf)
 
-1. Cheolmin Kim, Kibaek Kim, Prasanna Balaprakash, and Mihai Anitescu. "Graph Convolutional Neural Networks for Optimal Load Shedding under Line Contingency" Proceedings in *IEEE Power Engineering Society General Meeting (to appear)*, 2019 [[preprint](https://kibaekkim.github.io/papers/PES-GCN-preprint.pdf)]
+1. Cheolmin Kim, Kibaek Kim, Prasanna Balaprakash, and Mihai Anitescu. "Graph Convolutional Neural Networks for Optimal Load Shedding under Line Contingency" Proceedings in *IEEE Power Engineering Society General Meeting*, 2019 [[preprint](https://kibaekkim.github.io/papers/PES-GCN-preprint.pdf)] [[link]](https://ieeexplore.ieee.org/abstract/document/8973468)
 
-1. Vishwas Rao, Kibaek Kim, Michel Schanen, Daniel A. Maldonado, Cosmin G. Petra, and Mihai Anitescu. "A Multiperiod Optimization-Based Metric of Grid Resilience" Proceedings in *IEEE Power Engineering Society General Meeting (to appear)*, 2019
+1. Vishwas Rao, Kibaek Kim, Michel Schanen, Daniel A. Maldonado, Cosmin G. Petra, and Mihai Anitescu. "A Multiperiod Optimization-Based Metric of Grid Resilience" Proceedings in *IEEE Power Engineering Society General Meeting*, 2019 [[link]](https://ieeexplore.ieee.org/abstract/document/8974137)
 
 1. Kibaek Kim and Brian Dandurand. "Scalable Branching on Dual Decomposition of Stochastic Mixed-Integer Programming Problems" *submitted*, 2018 [[preprint]](http://www.optimization-online.org/DB_HTML/2018/10/6867.html)
 
@@ -20,7 +20,7 @@ permalink: /publication/
 
 1. Kibaek Kim, Cosmin G. Petra, and Victor M. Zavala. "An Asynchronous Bundle-Trust-Region Method for Dual Decomposition of Stochastic Mixed-Integer Programming" *SIAM Journal on Optimization*, 2019 [[preprint]](https://kibaekkim.github.io/papers/M114818.pdf) [[link]](https://epubs.siam.org/doi/abs/10.1137/17M1148189)
 
-1. Kibaek Kim. "An Optimization Approach for Identifying and Prioritizing Critical Components in a Power System." *(under review)*, 2017 [[preprint]](http://www.mcs.anl.gov/publication/optimization-approach-identifying-and-prioritizing-critical-components-power-system)
+1. Kibaek Kim. "An Optimization Approach for Identifying and Prioritizing Critical Components in a Power System." 2017 [[preprint]](http://www.mcs.anl.gov/publication/optimization-approach-identifying-and-prioritizing-critical-components-power-system)
 
 1. Kibaek Kim, Audun Botterud, and Feng Qiu. "Temporal Decomposition for Improved Unit Commitment in Power System Production Cost Modeling." *IEEE Transactions on Power Systems*. 2018 [[link]](http://ieeexplore.ieee.org/document/8316946/)
 
