@@ -4,6 +4,8 @@ title: Publication
 permalink: /publication/
 ---
 
+1. Kibaek Kim. "Dual Decomposition of Two-Stage Distributionally Robust Mixed-Integer Programming under the Wasserstein Ambiguity Set" *Optimization Online*, 2020 [[preprint]](http://www.optimization-online.org/DB_HTML/2020/04/7723.html)
+
 1. Anirudh Subramanyam, Mohamed El Tonbari, and Kibaek Kim. "Data-Driven Two-Stage Conic Optimization with Rare High-Impact Zero-One Uncertainties" *Optimization Online*, 2020 [[preprint]](http://www.optimization-online.org/DB_HTML/2020/01/7551.html)
 
 1. Brian Dandurand, Kibaek Kim, and Sven Leyffer. "A Lagrangian Dual Approach for Identifying the Worst Contingencies in Power Systems" *Optimization Online*, 2019 [[preprint]](http://www.optimization-online.org/DB_FILE/2019/07/7306.pdf)
