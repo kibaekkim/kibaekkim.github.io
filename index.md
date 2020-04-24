@@ -12,7 +12,3 @@ I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numer
 - [ExaSGD: Optimizing Stochastic Grid Dynamics at Exascale](https://www.exascaleproject.org/project/exasgd-optimizing-stochastic-grid-dynamics-at-exascale/)
 - [MACSER: Multifaceted Mathematics for Rare, High-Impact Events in Complex Energy and Environment Systems](https://www.anl.gov/mcs/macser-multifaceted-mathematics-for-rare-highimpact-events-in-complex-energy-and-environment-systems)
 - [Advanced Grid Modeling](https://www.anl.gov/es/advanced-grid-modeling)
-
-### Resarch Position Openings
-
-- Postdocs for Data-Driven Optimization: [APPLY](http://bit.ly/2lGXtj2)
