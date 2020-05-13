@@ -4,6 +4,8 @@ title: Publication
 permalink: /publication/
 ---
 
+1. Brian Dandurand, Kibaek Kim, and Michel Schanen. "Toward a Scalable Robust Security-Constrained Optimal Power Flow Using a Proximal Projection Bundle Method" *Proceedings in Power System Computation Conference (to appear)*, 2020 [[preprint]](https://doi.org/10.13140/RG.2.2.22366.66889)
+
 1. Kibaek Kim. "Dual Decomposition of Two-Stage Distributionally Robust Mixed-Integer Programming under the Wasserstein Ambiguity Set" *Optimization Online*, 2020 [[preprint]](http://www.optimization-online.org/DB_HTML/2020/04/7723.html)
 
 1. Anirudh Subramanyam, Mohamed El Tonbari, and Kibaek Kim. "Data-Driven Two-Stage Conic Optimization with Rare High-Impact Zero-One Uncertainties" *Optimization Online*, 2020 [[preprint]](http://www.optimization-online.org/DB_HTML/2020/01/7551.html)
