@@ -16,7 +16,7 @@ permalink: /publication/
 
 1. Vishwas Rao, Kibaek Kim, Michel Schanen, Daniel A. Maldonado, Cosmin G. Petra, and Mihai Anitescu. "A Multiperiod Optimization-Based Metric of Grid Resilience" Proceedings in *IEEE Power Engineering Society General Meeting*, 2019 [[link]](https://ieeexplore.ieee.org/abstract/document/8974137)
 
-1. Kibaek Kim and Brian Dandurand. "Scalable Branching on Dual Decomposition of Stochastic Mixed-Integer Programming Problems" *submitted*, 2018 [[preprint]](http://www.optimization-online.org/DB_HTML/2018/10/6867.html)
+1. Kibaek Kim and Brian Dandurand. "Scalable Branching on Dual Decomposition of Stochastic Mixed-Integer Programming Problems" *Mathematical Programming Computation (to appear)*, 2020 [[preprint]](http://www.optimization-online.org/DB_HTML/2018/10/6867.html)
 
 1. Brian Dandurand and Kibaek Kim. "Scalable Decomposition Methods for Preventive Security-Constrained Optimal Power Flow" *Proceedings in Power System Computation Conference*, 2018 [[preprint]](http://www.mcs.anl.gov/~kibaekkim/dandurand2018pscc.pdf) [[link]](https://doi.org/10.23919/PSCC.2018.8442836)
 
