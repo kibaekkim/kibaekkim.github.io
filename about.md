@@ -37,11 +37,6 @@ permalink: /AboutMe/
 - Webmaster, INFORMS Student Chapter, Texas A&M University, Nov. 2007 - May. 2009
 - Volunteer, Public Affair Office at U.S. 8th Army, Seoul, Korea, Dec. 2001 - Feb. 2002
 
-# Media
-- [How does AI improve grid performance? No one fully understands and that's limiting its use](https://www.utilitydive.com/news/how-does-ai-improve-grid-performance-no-one-fully-understands-and-thats-l/566997/), Nov 2019
-- [New funding awarded to two early career scientists](https://www.newswise.com/articles/new-funding-awarded-to-two-early-career-scientists), Aug 2019
-- [Artificial Intelligence Can Make the U.S. Electric Grid Smarter](https://www.tdworld.com/grid-innovations/smart-grid/article/20972769/artificial-intelligence-can-make-the-us-electric-grid-smarter), Jun 2019
-
 # Professional Experience
 - Summer Internship, Center for Clinical Research and Informatics, Northshore University HealthSystem, 2012 Summer
   - Research on predictive models for neurological diseases (e.g. Parkinson's disease)

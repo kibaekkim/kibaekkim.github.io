@@ -12,3 +12,9 @@ I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numer
 - [ExaSGD: Optimizing Stochastic Grid Dynamics at Exascale](https://www.exascaleproject.org/research-group/data-analytics-and-optimization/)
 - [MACSER: Multifaceted Mathematics for Rare, High-Impact Events in Complex Energy and Environment Systems](https://www.anl.gov/mcs/macser-multifaceted-mathematics-for-rare-highimpact-events-in-complex-energy-and-environment-systems)
 - [Advanced Grid Modeling](https://www.anl.gov/es/advanced-grid-modeling)
+
+### Media
+- [Banishing blackouts](https://deixismagazine.org/2020/10/banishing-blackouts/), Oct 2020
+- [How does AI improve grid performance? No one fully understands and that's limiting its use](https://www.utilitydive.com/news/how-does-ai-improve-grid-performance-no-one-fully-understands-and-thats-l/566997/), Nov 2019
+- [New funding awarded to two early career scientists](https://www.newswise.com/articles/new-funding-awarded-to-two-early-career-scientists), Aug 2019
+- [Artificial Intelligence Can Make the U.S. Electric Grid Smarter](https://www.tdworld.com/grid-innovations/smart-grid/article/20972769/artificial-intelligence-can-make-the-us-electric-grid-smarter), Jun 2019
