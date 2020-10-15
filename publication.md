@@ -24,7 +24,7 @@ permalink: /publication/
 
 1. Kibaek Kim, Cosmin G. Petra, and Victor M. Zavala. "An Asynchronous Bundle-Trust-Region Method for Dual Decomposition of Stochastic Mixed-Integer Programming" *SIAM Journal on Optimization*, 2019 [[preprint]](https://kibaekkim.github.io/papers/M114818.pdf) [[link]](https://epubs.siam.org/doi/abs/10.1137/17M1148189)
 
-1. Kibaek Kim. "An Optimization Approach for Identifying and Prioritizing Critical Components in a Power System." 2017 [[preprint]](http://www.mcs.anl.gov/publication/optimization-approach-identifying-and-prioritizing-critical-components-power-system)
+1. Kibaek Kim. "An Optimization Approach for Identifying and Prioritizing Critical Components in a Power System." 2017 [[preprint]](https://kibaekkim.github.io/papers/P7076-0717.pdf)
 
 1. Kibaek Kim, Audun Botterud, and Feng Qiu. "Temporal Decomposition for Improved Unit Commitment in Power System Production Cost Modeling." *IEEE Transactions on Power Systems*. 2018 [[link]](http://ieeexplore.ieee.org/document/8316946/)
 
