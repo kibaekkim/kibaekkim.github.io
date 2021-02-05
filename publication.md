@@ -2,60 +2,86 @@
 layout: page
 title: Publication
 permalink: /publication/
+years: [2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011]
 ---
 
-1. Minseok Ryu and Kibaek Kim. "A Privacy-Preserving Distributed Control of Optimal Power Flow," 2021 [[preprint]](https://arxiv.org/abs/2102.02276)
+<style type="text/css">
+.btnPub--url {
+	background:linear-gradient(to bottom, #74ad5a 5%, #68a54b 100%);
+	background-color:#74ad5a;
+	border-radius:3px;
+	border:1px solid #3b6e22;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:10px;
+	padding:1px 5px;
+	text-decoration:none;
+}
+.btnPub--url:hover {
+	background:linear-gradient(to bottom, #68a54b 5%, #74ad5a 100%);
+	background-color:#68a54b;
+}
+.btnPub--url:active {
+	position:relative;
+	top:1px;
+}
+.btnPub--BibTex {
+	background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+	background-color:#007dc1;
+	border-radius:3px;
+	border:1px solid #124d77;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:10px;
+	padding:1px 5px;
+	text-decoration:none;
+}
+.btnPub--BibTex:hover {
+	background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+	background-color:#0061a7;
+}
+.btnPub--BibTex:active {
+	position:relative;
+	top:1px;
+}
 
-1. Brian Dandurand, Kibaek Kim, and Michel Schanen. "Toward a Scalable Robust Security-Constrained Optimal Power Flow Using a Proximal Projection Bundle Method" *Electric Power Systems Research*, 2020 [[preprint]](https://doi.org/10.13140/RG.2.2.22366.66889) [[link]](https://doi.org/10.1016/j.epsr.2020.106681)
+.btnPub--preprint {
+	background:linear-gradient(to bottom, #f24537 5%, #c62d1f 100%);
+	background-color:#f24537;
+	border-radius:3px;
+	border:1px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:10px;
+	padding:1px 5px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #810e05;
+}
+.btnPub--preprint:hover {
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24537 100%);
+	background-color:#c62d1f;
+}
+.btnPub--preprint:active {
+	position:relative;
+	top:1px;
+}
 
-1. Kibaek Kim. "Dual Decomposition of Two-Stage Distributionally Robust Mixed-Integer Programming under the Wasserstein Ambiguity Set" *Optimization Online*, 2020 [[preprint]](http://www.optimization-online.org/DB_HTML/2020/04/7723.html)
+.raw-bibtex {
+	background-color:#eeeeee;
+    font-size: 12px;
+}
 
-1. Anirudh Subramanyam, Mohamed El Tonbari, and Kibaek Kim. "Data-Driven Two-Stage Conic Optimization with Rare High-Impact Zero-One Uncertainties" *Optimization Online*, 2020 [[preprint]](http://www.optimization-online.org/DB_HTML/2020/01/7551.html)
+</style>
 
-1. Brian Dandurand, Kibaek Kim, and Sven Leyffer. "A Bilevel Approach for Identifying the Worst Contingencies for Nonconvex Alternating Current Power Systems" *SIAM Journal on Optimization (to appear)*, 2020 [[preprint]](http://www.optimization-online.org/DB_HTML/2019/07/7306.html)
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=RE9h8MsAAAAJ&hl=en).
 
-1. Cheolmin Kim, Kibaek Kim, Prasanna Balaprakash, and Mihai Anitescu. "Graph Convolutional Neural Networks for Optimal Load Shedding under Line Contingency" Proceedings in *IEEE Power Engineering Society General Meeting*, 2019 [[preprint](https://kibaekkim.github.io/papers/PES-GCN-preprint.pdf)] [[link]](https://ieeexplore.ieee.org/abstract/document/8973468)
-
-1. Vishwas Rao, Kibaek Kim, Michel Schanen, Daniel A. Maldonado, Cosmin G. Petra, and Mihai Anitescu. "A Multiperiod Optimization-Based Metric of Grid Resilience" Proceedings in *IEEE Power Engineering Society General Meeting*, 2019 [[link]](https://ieeexplore.ieee.org/abstract/document/8974137)
-
-1. Kibaek Kim and Brian Dandurand. "Scalable Branching on Dual Decomposition of Stochastic Mixed-Integer Programming Problems" *Mathematical Programming Computation (to appear)*, 2020 [[preprint]](http://www.optimization-online.org/DB_HTML/2018/10/6867.html)
-
-1. Brian Dandurand and Kibaek Kim. "Scalable Decomposition Methods for Preventive Security-Constrained Optimal Power Flow" *Proceedings in Power System Computation Conference*, 2018 [[preprint]](http://www.mcs.anl.gov/~kibaekkim/dandurand2018pscc.pdf) [[link]](https://doi.org/10.23919/PSCC.2018.8442836)
-
-1. Kibaek Kim, Mihai Anitescu, and Victor M. Zavala. "An Asynchronous Decomposition Algorithm for Security Constrained Unit Commitment under Contingency Events" *Proceedings in Power System Computation Conference*, 2018 [[preprint]](http://www.mcs.anl.gov/~kibaekkim/PSCC-KimAnitescuZavala.pdf) [[link]](https://doi.org/10.23919/PSCC.2018.8450937)
-
-1. Kibaek Kim, Cosmin G. Petra, and Victor M. Zavala. "An Asynchronous Bundle-Trust-Region Method for Dual Decomposition of Stochastic Mixed-Integer Programming" *SIAM Journal on Optimization*, 2019 [[preprint]](https://kibaekkim.github.io/papers/M114818.pdf) [[link]](https://epubs.siam.org/doi/abs/10.1137/17M1148189)
-
-1. Kibaek Kim. "An Optimization Approach for Identifying and Prioritizing Critical Components in a Power System." 2017 [[preprint]](https://kibaekkim.github.io/papers/P7076-0717.pdf)
-
-1. Kibaek Kim, Audun Botterud, and Feng Qiu. "Temporal Decomposition for Improved Unit Commitment in Power System Production Cost Modeling." *IEEE Transactions on Power Systems*. 2018 [[link]](http://ieeexplore.ieee.org/document/8316946/)
-
-1. Mark Hereld and Kibaek Kim. "Disaster = Infrastructure + Hazard." *Proceedings in Resilience Week 2017*, 2017 ([Highlighted at Argonne website](http://www.mcs.anl.gov/articles/disaster-infrastructure-hazard)) [[preprint]](http://www.mcs.anl.gov/publication/disaster-infrastructure-hazard)
-
-1. Duane Verner, Kibaek Kim, and Frederic Petit. "Incorporating Prioritization in Critical Infrastructure Security and Resilience Programs." *Proceedings in 10th Annual Homeland Defense/Security Education Summit*, 2017 (Best Paper) [[preprint]](http://www.mcs.anl.gov/publication/incorporating-priorization-critical-infrastructure-security-and-resilience-programs)
-
-1. Jordan Jalving, Shrirang Abhyankar, Kibaek Kim, Mark Hereld, and Victor M. Zavala. "A Graph-Based Computational Framework for Simulation and Optimization of Coupled Infrastructure Networks." *IET Generation, Transmission & Distribution*, 2017 [[link]](http://digital-library.theiet.org/content/journals/10.1049/iet-gtd.2016.1582)
-
-1. Kibaek Kim, Fan Yang, Victor M. Zavala, and Andrew A. Chien. "Data Centers as Dispatchable Loads to Harness Stranded Power." *IEEE Transactions on Sustainable Energy*, 8(1), 2017 (Highlighted at Argonne website) [[preprint]](http://dx.doi.org/10.1109/TSTE.2016.2593607) [[link]](http://ieeexplore.ieee.org/abstract/document/7517380/)
-
-1. Victor M. Zavala, Kibaek Kim, Mihai Anitescu, and John Birge. "A Stochastic Electricity Market Clearing Formulation with Consistent Pricing Properties." *Operations Research* 65(3), 557-576, 2017 [[preprint]](http://arxiv.org/abs/1510.08335) [[link]](http://pubsonline.informs.org/doi/abs/10.1287/opre.2016.1576)
-
-1. Kibaek Kim and Victor M. Zavala. "Algorithmic Innovations and Software for the Dual Decomposition Method applied to Stochastic Mixed-Integer Programs." *Mathematical Programming Computation*, 2017 [[preprint]](http://www.optimization-online.org/DB_FILE/2015/06/4960.pdf) [[link]](http://www.springer.com/-/2/AV-OkG9bZZYXVFkW9Cpi) [[github]](https://github.com/Argonne-National-Laboratory/DSP)
-
-1. Kibaek Kim and Victor M. Zavala. "Large-Scale Mixed-Integer Programming Algorithms for Power Generation Scheduling." *In Alternative Energy Sources and Technologies*, 2015 [[link]](https://link.springer.com/chapter/10.1007/978-3-319-28752-2_18)
-
-1. Kibaek Kim and Sanjay Mehrotra. "A Two Stage Stochastic Integer Programming Approach for Integrated Staffing and Scheduling under Demand Uncertainty." *Operations Research* 63(6), 1431-1451, 2015 (George L. Nemhauser Best Student Paper) [[Preprint]](http://www.mcs.anl.gov/~kibaekkim/StaffingModel-OR.pdf) [[link]](http://dx.doi.org/10.1287/opre.2015.1421)
-
-1. Kibaek Kim, Changhyeok Lee, Kevin O'Leary, Shannon Rosenauer, and Sanjay Mehrotra. "Forecast Patient Volumes in Hospital Medicine: A Comparative Study of Time Series Models." Northwestern University, *Technical Report*, 2014 [[preprint]](http://www.mcs.anl.gov/~kibaekkim/ForecastingHospitalMedicine.pdf)
-
-1. Jonathan Turner, Kibaek Kim, Sanjay Mehrotra, Debra A. DaRosa, Mark S. Daskin, and Heron E. Rodriguez. "Using Optimization Models to Demonstrate the Need for Structural Changes in Training Programs for Surgical Medical Residents." *Health Care Management Sciences* 16(3), 217-227, 2013 [[Preprint]](https://www.researchgate.net/publication/236071876_Using_optimization_models_to_demonstrate_the_need_for_structural_changes_in_training_programs_for_surgical_medical_residents) [[link]](http://dx.doi.org/10.1007/s10729-013-9230-6)
-
-1. Sanjay Mehrotra, Kibaek Kim, and David Leibovitz. "Muscle and Tendon related Adverse Event Prevalence and Incidence Rates with Statin Use." Northwestern University, *Technical Report*, 2013 [[preprint]](http://www.mcs.anl.gov/~kibaekkim/StatinAnalysis.pdf)
-
-1. Sanjay Mehrotra, Kibaek Kim, David Leibovitz, and Jeffrey J. Goldberger. "Risk Assessment of Sudden Cardiac Arrest using Multivariate Analysis." Northwestern University, *Technical Report*, 2012 [[preprint]](http://www.mcs.anl.gov/~kibaekkim/SuddenCardiacArrest.pdf)
-
-1. Sanjay Mehrotra, Kibaek Kim, David Leibovitz, and Jeffrey J. Goldberger. "Sudden Cardiac Arrest Risk Assessment Using a Multivariate Model." *Journal of the American College of Cardiology*, 2012 [[link]](http://dx.doi.org/10.1016/S0735-1097(12)60275-7)
-
-1. Sanjay Mehrotra, Kibaek Kim, and David Liebovitz. "Myopathy Prevalence in Statin Treated Patients with Comorbidities and Combination Therapy." *Journal of the American College of Cardiology*, 2012 [[link]](http://dx.doi.org/10.1007/s10729-011-9166-7)
-
-1. Sanjay Mehrotra and Kibaek Kim. "Outcome Based State Budget Allocation for Diabetes Prevention Programs Using Multi-Criteria Optimization with Robust Weights." Health Care Management Sciences 14(4), 324-337, 2011 [[preprint]](https://www.researchgate.net/publication/51220120_Outcome_based_state_budget_allocation_for_diabetes_prevention_programs_using_multi-criteria_optimization_with_robust_weights) [[link]](http://dx.doi.org/10.1007/s10729-011-9166-7)
+{% for y in page.years %}
+  <h3 id="{{y}}" class="pubyear">{{y}}</h3>
+  {% bibliography -q @*[year={{y}}]* %}
+{% endfor %}
