@@ -4,6 +4,8 @@ title: Publication
 permalink: /publication/
 ---
 
+1. Minseok Ryu and Kibaek Kim. "A Privacy-Preserving Distributed Control of Optimal Power Flow," 2021 [[preprint]](https://arxiv.org/abs/2102.02276)
+
 1. Brian Dandurand, Kibaek Kim, and Michel Schanen. "Toward a Scalable Robust Security-Constrained Optimal Power Flow Using a Proximal Projection Bundle Method" *Electric Power Systems Research*, 2020 [[preprint]](https://doi.org/10.13140/RG.2.2.22366.66889) [[link]](https://doi.org/10.1016/j.epsr.2020.106681)
 
 1. Kibaek Kim. "Dual Decomposition of Two-Stage Distributionally Robust Mixed-Integer Programming under the Wasserstein Ambiguity Set" *Optimization Online*, 2020 [[preprint]](http://www.optimization-online.org/DB_HTML/2020/04/7723.html)
