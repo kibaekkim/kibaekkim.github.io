@@ -6,6 +6,8 @@ permalink: /talks/
 
 ## Conferences/Workshops
 
+1. Dual Decomposition of Two-Stage DRMIP under the Wasserstein Ambiguity Set, INFORMS Annual Meeting, November, 2020
+
 1. Two-stage Wasserstein Distributionally Robust Convex Programs With Zero-one Uncertainties, INFORMS Annual Meeting, Seattle, WA, October 2019 (presented by Anirudh Subramanyam)
 
 1. A Data-driven Branching On Decomposition of Stochastic Mixed-integer Programs, INFORMS Annual Meeting, Seattle, WA, October 2019
@@ -73,6 +75,10 @@ permalink: /talks/
 1. Outcome based state budget allocation for diabetes prevention programs, invited for INFORMS Healthcare 2011, Montreal, QB, Canada
 
 ## Other Talks
+
+1. Data-Driven Optimization for Electric Distribution Systems, MACSER Annual Meeting, 2021
+
+1. Data-Driven Optimization under Uncertainty: Parallel Algorithms and Solver, MCS All-Hands Meeting, Argonne, July 27, 2020
 
 1. Scalable Algorithms for Stochastic Mixed-Integer Programs, Virgia Tech, October 10, 2018
 
