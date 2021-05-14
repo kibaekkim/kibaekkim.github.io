@@ -5,7 +5,7 @@ permalink: /AboutMe/
 ---
 
 # Education
-- Ph.D., Industrial Engineering and Management Sciences, Northwestern University, August 2014
+- Ph.D., Industrial Engineering and Management Sciences, Northwestern University, August 2014 ([academic tree](/images/academic_tree.png))
 - M.E., Industrial and Systems Engineering, Texas A&M University, 2009
 - B.S., Industrial Engineering, Inha University, 2007
 
@@ -38,6 +38,7 @@ permalink: /AboutMe/
 - Volunteer, INFORMS Southwest Regional Conference, Apr. 2008
 - Webmaster, INFORMS Student Chapter, Texas A&M University, Nov. 2007 - May. 2009
 - Volunteer, Public Affair Office at U.S. 8th Army, Seoul, Korea, Dec. 2001 - Feb. 2002
+
 
 # Professional Experience
 - Summer Internship, Center for Clinical Research and Informatics, Northshore University HealthSystem, 2012 Summer
