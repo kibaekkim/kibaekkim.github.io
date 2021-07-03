@@ -13,7 +13,6 @@ I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numer
 - [MACSER: Multifaceted Mathematics for Rare, High-Impact Events in Complex Energy and Environment Systems](https://www.anl.gov/mcs/macser-multifaceted-mathematics-for-rare-highimpact-events-in-complex-energy-and-environment-systems)
 - [Advanced Grid Modeling](https://www.anl.gov/es/advanced-grid-modeling)
 
-
 ### Media
 
 - [Banishing blackouts](https://deixismagazine.org/2020/10/banishing-blackouts/), Oct 2020
