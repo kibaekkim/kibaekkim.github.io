@@ -5,7 +5,7 @@ permalink: /AboutMe/
 ---
 
 # Education
-- Ph.D., Industrial Engineering and Management Sciences, Northwestern University, August 2014 ([academic tree](/images/academic_tree.png))
+- Ph.D., Industrial Engineering and Management Sciences, Northwestern University, August 2014 ([academic tree](/images/academic_tree.jpg))
 - M.E., Industrial and Systems Engineering, Texas A&M University, 2009
 - B.S., Industrial Engineering, Inha University, 2007
 
