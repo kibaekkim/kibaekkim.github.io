@@ -10,6 +10,8 @@ permalink: /AboutMe/
 - B.S., Industrial Engineering, Inha University, 2007
 
 # Awards
+- IMPACT Argonne Award (Computing, Environment and Life Sciences directorate), September 2021
+- IMPACT Argonne Award (Energy and Global Security directorate), August 2021
 - Early Career Research Program, US Department of Energy, 2019
 - George L. Nemhauser Best Student Paper, Northwestern University, 2014
 - Best Poster Award (selected among nearly 2,000 posters), American College of Cardiology's 61st Annual Scientific Session & Expo, 2012
@@ -18,6 +20,7 @@ permalink: /AboutMe/
 - Editorship: Naval Research Logistics (AE)
 - Referee services: Annals of Operations Research, Computational Optimization and Applications, Computers and Operations Research, European Journal of Operational Research, IEEE Transactions on Cloud Computing, IEEE Transactions on Power Systems, IIE Transactions, INFORMS Journal on Computing, Interfaces, Journal of the Operations Research Society, Management Science, Mathematical Programming, Operations Research, Optimization Methods and Software, and SIAM Journal on Optimization
 - Organization of Sessions and Minisymposia at International Conferences
+  - Distributed Algorithms for Power System Operations I, II, INFORMS Annual Meeting, 2021
   - Distributed Optimization and Control, SIAM Conference on Optimization, 2021
   - Optimization on Distributed Architectures, INFORMS Annual Meeting, 2020
   - Distributionally Robust Optimization: Modeling, Algorithms, and Applications I and II (two sessions), INFORMS 2019 Annual Meeting, Seattle, WA, 2019
