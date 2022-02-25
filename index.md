@@ -16,6 +16,7 @@ I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numer
 
 ### Media
 
+- [SIAG/OPT Views and News](http://wiki.siam.org/siag-op/images/siag-op/e/e8/ViewsAndNews-29-1.pdf), Dec 2021
 - [Banishing blackouts](https://deixismagazine.org/2020/10/banishing-blackouts/), Oct 2020
 - [How does AI improve grid performance? No one fully understands and that's limiting its use](https://www.utilitydive.com/news/how-does-ai-improve-grid-performance-no-one-fully-understands-and-thats-l/566997/), Nov 2019
 - [New funding awarded to two early career scientists](https://www.newswise.com/articles/new-funding-awarded-to-two-early-career-scientists), Aug 2019
