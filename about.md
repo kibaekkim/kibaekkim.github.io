@@ -10,6 +10,19 @@ permalink: /AboutMe/
 - M.E., Industrial and Systems Engineering, Texas A&M University, 2009
 - B.S., Industrial Engineering, Inha University, 2007
 
+## Professional Experience
+
+- Computational Mathematician, Mathematics and Computer Science Division, Argonne National Laboratory, Lemont, IL, 2019 - present
+- Scientist at Large, Consortium for Advanced Science and Engineering (CASE), The University of Chicago, Chicago, IL, 2018 - present
+- Assistant Computational Mathematician, Mathematics and Computer Science Division, Argonne National Laboratory, Lemont, IL, 2016 - 2019
+- Joint Appointment, Computation Institute, The University of Chicago, Chicago, IL, 2016 - 2018
+- Postdoctoral Appointee, Mathematics and Computer Science Division, Argonne National Laboratory, Lemont, IL (Supervisors: Victor M. Zavala and Mihai Anitescu), 2014 - 2016
+- Summer Internship, Center for Clinical Research and Informatics, Northshore University HealthSystem, 2012 Summer
+- Software Engineer, KTH Co., Seoul, Korea, Jun. 2006 - Aug. 2006
+- Software Engineer, Dream Technology 21, Seoul, Korea, Oct. 2004 - Sep. 2005
+- Software Engineer, ECO, Inc, Seoul, Korea, Apr. 2003 - Oct. 2004
+- Computer Engineer, E-LAND Group, Seoul, Korea, Feb. 2003 - Apr. 2003
+
 ## Awards and Honors
 
 - IEEE Senior Member, 2022
@@ -96,19 +109,6 @@ permalink: /AboutMe/
 - Mohamed El Tonbari (Chair: Prof. Alejandro Toriello from Georgia Tech, GA, 2022)
 - Hideaki Nakao (Chair: Prof. Siqian Shen from University of Michigan, 2021)
 - Youngkyu Cho (Chair: Prof. Young-myeong Ko from Pohang University of Science and Technology, Korea, 2018)
-
-## Professional Experience
-
-- Summer Internship, Center for Clinical Research and Informatics, Northshore University HealthSystem, 2012 Summer
-  - Research on predictive models for neurological diseases (e.g. Parkinson's disease)
-- Software Engineer, KTH Co., Seoul, Korea, Jun. 2006 - Aug. 2006
-  - Developing web search engines for a portal website 
-- Software Engineer, Dream Technology 21, Seoul, Korea, Oct. 2004 - Sep. 2005
-  - Developing Internet security applications 
-- Software Engineer, ECO, Inc, Seoul, Korea, Apr. 2003 - Oct. 2004
-  - Developing web search engines for public libraries in Korea 
-- Computer Engineer, E-LAND Group, Seoul, Korea, Feb. 2003 - Apr. 2003
-  - Troubleshooting 
 
 ## Teaching Experience
 
