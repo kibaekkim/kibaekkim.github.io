@@ -3,10 +3,10 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"../../../../../opt/hostedtoolcache/Ruby/2.6.9/x64/lib/ruby/gems/2.6.0/gems/minima-2.5.1/_sass/minima.scss",
-		"../../../../../opt/hostedtoolcache/Ruby/2.6.9/x64/lib/ruby/gems/2.6.0/gems/minima-2.5.1/_sass/minima/_base.scss",
-		"../../../../../opt/hostedtoolcache/Ruby/2.6.9/x64/lib/ruby/gems/2.6.0/gems/minima-2.5.1/_sass/minima/_layout.scss",
-		"../../../../../opt/hostedtoolcache/Ruby/2.6.9/x64/lib/ruby/gems/2.6.0/gems/minima-2.5.1/_sass/minima/_syntax-highlighting.scss"
+		"../../../../../opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/gems/2.6.0/gems/minima-2.5.1/_sass/minima.scss",
+		"../../../../../opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/gems/2.6.0/gems/minima-2.5.1/_sass/minima/_base.scss",
+		"../../../../../opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/gems/2.6.0/gems/minima-2.5.1/_sass/minima/_layout.scss",
+		"../../../../../opt/hostedtoolcache/Ruby/2.6.10/x64/lib/ruby/gems/2.6.0/gems/minima-2.5.1/_sass/minima/_syntax-highlighting.scss"
 	],
 	"sourcesContent": [
 		"@charset \"utf-8\";\n\n// Our variables\n$base-font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n$base-font-size:   16px;\n$base-font-weight: 400;\n$small-font-size:  $base-font-size * 0.875;\n$base-line-height: 1.5;\n\n$spacing-unit:     30px;\n\n$text-color:       #111;\n$background-color: #fdfdfd;\n$brand-color:      #2a7ae2;\n\n$grey-color:       #828282;\n$grey-color-light: lighten($grey-color, 40%);\n$grey-color-dark:  darken($grey-color, 25%);\n\n// Width of the content area\n$content-width:    800px;\n\n$on-palm:          600px;\n$on-laptop:        800px;\n\n// Minima also includes a mixin for defining media queries.\n// Use media queries like this:\n// @include media-query($on-palm) {\n//     .wrapper {\n//         padding-right: $spacing-unit / 2;\n//         padding-left: $spacing-unit / 2;\n//     }\n// }\n\n// Import partials from the `minima` theme.\n@import \"minima\";\n",
