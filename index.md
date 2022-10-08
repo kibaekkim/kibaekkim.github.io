@@ -8,10 +8,11 @@ I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numer
 
 ### Active Projects
 
+- Privacy-Preserving Federated Learning on Multimodal Data
+- Randomized Algorithms for Solving Massive Discrete Optimization Problems
 - [PALISADE-X: Privacy Preserving Analysis and Learning in Secure and Distributed Enclaves and Exascale Systems](https://www.energy.gov/science/articles/department-energy-invests-1-million-artificial-intelligence-research-privacy)
 - [Data-Driven Optimization under Uncertainty: Parallel Algorithms and Solver](https://www.anl.gov/mcs/datadriven-optimization-under-uncertainty-parallel-algorithms-and-solver)
 - [ExaSGD: Optimizing Stochastic Grid Dynamics at Exascale](https://www.exascaleproject.org/research-group/data-analytics-and-optimization/)
-- [MACSER: Multifaceted Mathematics for Rare, High-Impact Events in Complex Energy and Environment Systems](https://www.anl.gov/mcs/macser-multifaceted-mathematics-for-rare-highimpact-events-in-complex-energy-and-environment-systems)
 - [Advanced Grid Modeling](https://www.anl.gov/es/advanced-grid-modeling)
 
 ### Media
