@@ -23,15 +23,6 @@ permalink: /AboutMe/
 - Software Engineer, ECO, Inc, Seoul, Korea, Apr. 2003 - Oct. 2004
 - Computer Engineer, E-LAND Group, Seoul, Korea, Feb. 2003 - Apr. 2003
 
-## Awards and Honors
-
-- IEEE Senior Member, 2022
-- IMPACT Argonne Award (Computing, Environment and Life Sciences directorate), September 2021
-- IMPACT Argonne Award (Energy and Global Security directorate), August 2021
-- Early Career Research Program, US Department of Energy, 2019
-- George L. Nemhauser Best Student Paper, Northwestern University, 2014
-- Best Poster Award (selected among nearly 2,000 posters), American College of Cardiology's 61st Annual Scientific Session & Expo, 2012
-
 ## Activities
 
 - Editorship: Naval Research Logistics (AE)

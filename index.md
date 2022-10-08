@@ -15,6 +15,15 @@ I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numer
 - [ExaSGD: Optimizing Stochastic Grid Dynamics at Exascale](https://www.exascaleproject.org/research-group/data-analytics-and-optimization/)
 - [Advanced Grid Modeling](https://www.anl.gov/es/advanced-grid-modeling)
 
+### Awards and Honors
+
+- IEEE Senior Member, 2022
+- IMPACT Argonne Award (Computing, Environment and Life Sciences directorate), September 2021
+- IMPACT Argonne Award (Energy and Global Security directorate), August 2021
+- Early Career Research Program, US Department of Energy, 2019
+- George L. Nemhauser Best Student Paper, Northwestern University, 2014
+- Best Poster Award (selected among nearly 2,000 posters), American College of Cardiology's 61st Annual Scientific Session & Expo, 2012
+
 ### Media
 
 - [SIAG/OPT Views and News](http://wiki.siam.org/siag-op/images/siag-op/e/e8/ViewsAndNews-29-1.pdf), Dec 2021
