@@ -55,23 +55,25 @@ permalink: /AboutMe/
 
 ### Postdoctoral Appointees
 
+1. Yijiang Li (2023--present)
 1. Charikleia Iakovidou (2022--present)
 1. Hideaki Nakao (2021--present)
-1. Minseok Ryu (2020--present)
+1. Minseok Ryu (2020--2023)
 1. Geunyeong Byeon (2020)
-1. Bowen Li (2019--present; with Sven Leyffer)
+1. Bowen Li (2019--2023; with Sven Leyffer)
 1. Anirudh Subramanyam (2018--2022; with Mihai Anitescu)
 1. Brian Dandurand (2017--2020)
 
 ### Predoctoral Appointees
 
-1. Miao Li (2022--present; with Mihai Anitescu)
+1. Miao Li (2022--2023; with Mihai Anitescu)
 1. Yuxuan Ren (2021--2022; with Mihai Anitescu)
 1. Jisung Hwang (2020--2021; with Mihai Anitescu)
 
 ### Ph.D. Interns
 
-1. Weiqi Zhang (University of Wisconsin, 2022)
+1. Shourya Bose (UC Santa Clara, 2023)
+1. Weiqi Zhang (University of Wisconsin-Madison, 2022)
 1. Rachael Alfant (Rice University, 2022)
 1. Nick Dodd (Arizona State University, 2022)
 1. Jiaze Ma (University of Wisconsin-Madison, 2022)
@@ -100,17 +102,3 @@ permalink: /AboutMe/
 - Mohamed El Tonbari (Chair: Prof. Alejandro Toriello from Georgia Tech, GA, 2022)
 - Hideaki Nakao (Chair: Prof. Siqian Shen from University of Michigan, 2021)
 - Youngkyu Cho (Chair: Prof. Young-myeong Ko from Pohang University of Science and Technology, Korea, 2018)
-
-## Teaching Experience
-
-- Grading and Lab Instruct, Industrial Engineering and Management Sciences, Northwestern University, 2012 Fall
-  - IEMS 450-1 - Mathematical Programming 1 (Sanjay Mehrotra)
-  - Materials: Lab notes ([1](https://docs.google.com/file/d/0B3lm2iI4usOGWTVOT2dIS2Q4Rms/edit?usp=sharing),[2](https://docs.google.com/file/d/0B3lm2iI4usOGdkU4YU9VYU11Q3M/edit?usp=sharing))
-- Teaching Assistantship, Industrial Engineering and Management Sciences, Northwestern University, 2011 Fall
-  - IEMS 313 - Deterministic Models and Optimization (Jill Hardin Wilson)
-  - Materials: Lab notes ([1](https://docs.google.com/file/d/0B3lm2iI4usOGLUtib1B3V2NQZ1U/edit?usp=sharing),[2](https://docs.google.com/file/d/0B3lm2iI4usOGcHZIZHFUX3VxNzA/edit?usp=sharing),[3](https://docs.google.com/file/d/0B3lm2iI4usOGVW5lUHRzcm45Y00/edit?usp=sharing),[4](https://docs.google.com/file/d/0B3lm2iI4usOGeXJXMnRINFRGNFk/edit?usp=sharing),[5](https://docs.google.com/file/d/0B3lm2iI4usOGbm9YWlhYaDdNTjg/edit?usp=sharing),[6](https://docs.google.com/file/d/0B3lm2iI4usOGSFJkZHRvSlpxcEE/edit?usp=sharing),[7](https://docs.google.com/file/d/0B3lm2iI4usOGNkV6eHZBVU9OY3M/edit?usp=sharing),[7extra](https://docs.google.com/file/d/0B3lm2iI4usOGWXNqejJjMHpfd0k/edit?usp=sharing)), [Lecture slides](https://docs.google.com/file/d/0B3lm2iI4usOGb3lCZjdiVTAxOHc/edit?usp=sharing)
-- Teaching Assistantship, Industrial Engineering and Management Sciences, Northwestern University, 2011 Spring
-  - IEMS 303 - Statistics (Mengxio Zhu)
-  - IEMS 326 - Economics and Finance for Engineers (Benjamin Armbruster)
-- Teaching Assistantship, Industrial Engineering and Management Sciences, Northwestern University, 2010 Fall
-  - IEMS 313 - Deterministic Models and Optimization (Robert Fourer)
