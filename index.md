@@ -6,6 +6,9 @@ layout: default
 
 I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numerical Software, and Statistics](https://www.anl.gov/mcs/lans), [Mathematics and Computer Science Division](https://www.anl.gov/mcs) at [Argonne National Laboratory](https://www.anl.gov), and a Senior Scientist at-Large at [the University of Chicago Consortium for Advanced Science and Engineering](https://researchinnovation.uchicago.edu/research-support/case/). My primary research focus is on optimization modeling and solutions for large-scale optimization (in particular, stochastic optimization and distributed optimization) capable of running on high performance computing systems, in applications to complex energy systems and distributed learning. Before joining Argonne, I obtained a Ph.D. degree in Industrial Engineering and Management Sciences from Northwestern University ([my academic tree](/images/academic_tree.jpg)). I am a recipient of DOE Early Career Research Program award. I serve as associate editors in [Mathematical Programming Computation](https://www.springer.com/journal/12532) and [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750) and board members for [COIN-OR Foundation](https://www.coin-or.org) and [IISE Energy Systems](https://www.iise.org/details.aspx?id=43037).
 
+
+My research in a few words (Last update: November, 2023):
+
 <img width="100%" src="/images/word_cloud.png"/>
 
 ## Active Projects
