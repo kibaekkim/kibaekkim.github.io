@@ -8,7 +8,7 @@ I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numer
 
 - See my [Google Scholar](https://scholar.google.com/citations?user=RE9h8MsAAAAJ&hl=en) page for publications.
 - See my [GitHub](https://www.linkedin.com/in/kibaekkim) page for software packages.
-- Check out our privacy-preserving federated learning project: https://appfl.ai
+- Check out the [website](https://appfl.ai) for our privacy-preserving federated learning project.
 
 My research in a few words (Last update: October 2024):
 
