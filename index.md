@@ -6,6 +6,9 @@ layout: default
 
 I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numerical Software, and Statistics](https://www.anl.gov/mcs/lans), [Mathematics and Computer Science Division](https://www.anl.gov/mcs) at [Argonne National Laboratory](https://www.anl.gov), and a Senior Scientist at-Large at [the University of Chicago Consortium for Advanced Science and Engineering](https://researchinnovation.uchicago.edu/research-support/case/). My research focuses on federated learning algorithms and software development, as well as modeling and numerical algorithms for large-scale optimization on high-performance computing systems and GPUs. My work is applied to areas including electric grid systems, healthcare, and key scientific domains of interest to the Department of Energy. Before joining Argonne, I obtained a Ph.D. degree in Industrial Engineering and Management Sciences from Northwestern University ([my academic tree](/images/academic_tree.jpg)). I am a recipient of DOE Early Career Research Program award. I serve as associate editors in [Mathematical Programming Computation](https://www.springer.com/journal/12532) and [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750) and board members for [COIN-OR Foundation](https://www.coin-or.org) and [IISE Energy Systems](https://www.iise.org/details.aspx?id=43037).
 
+- See my [Google Scholar](https://scholar.google.com/citations?user=RE9h8MsAAAAJ&hl=en) page for publications.
+- See my [GitHub](https://www.linkedin.com/in/kibaekkim) page for software packages.
+- Check out our privacy-preserving federated learning project: https://appfl.ai
 
 My research in a few words (Last update: October 2024):
 
