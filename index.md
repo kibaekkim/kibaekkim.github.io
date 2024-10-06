@@ -4,22 +4,12 @@ layout: default
 
 <img style="float:right;padding:20px;" width="200" src="/images/Kim-photoshot.jpg"/>
 
-I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numerical Software, and Statistics](https://www.anl.gov/mcs/lans), [Mathematics and Computer Science Division](https://www.anl.gov/mcs) at [Argonne National Laboratory](https://www.anl.gov), and a Senior Scientist at-Large at [the University of Chicago Consortium for Advanced Science and Engineering](https://researchinnovation.uchicago.edu/research-support/case/). My primary research focus is on optimization modeling and solutions for large-scale optimization (in particular, stochastic optimization and distributed optimization) capable of running on high performance computing systems, in applications to complex energy systems and distributed learning. Before joining Argonne, I obtained a Ph.D. degree in Industrial Engineering and Management Sciences from Northwestern University ([my academic tree](/images/academic_tree.jpg)). I am a recipient of DOE Early Career Research Program award. I serve as associate editors in [Mathematical Programming Computation](https://www.springer.com/journal/12532) and [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750) and board members for [COIN-OR Foundation](https://www.coin-or.org) and [IISE Energy Systems](https://www.iise.org/details.aspx?id=43037).
+I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numerical Software, and Statistics](https://www.anl.gov/mcs/lans), [Mathematics and Computer Science Division](https://www.anl.gov/mcs) at [Argonne National Laboratory](https://www.anl.gov), and a Senior Scientist at-Large at [the University of Chicago Consortium for Advanced Science and Engineering](https://researchinnovation.uchicago.edu/research-support/case/). My research focuses on federated learning algorithms and software development, as well as modeling and numerical algorithms for large-scale optimization on high-performance computing systems and GPUs. My work is applied to areas including electric grid systems, healthcare, and key scientific domains of interest to the Department of Energy. Before joining Argonne, I obtained a Ph.D. degree in Industrial Engineering and Management Sciences from Northwestern University ([my academic tree](/images/academic_tree.jpg)). I am a recipient of DOE Early Career Research Program award. I serve as associate editors in [Mathematical Programming Computation](https://www.springer.com/journal/12532) and [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750) and board members for [COIN-OR Foundation](https://www.coin-or.org) and [IISE Energy Systems](https://www.iise.org/details.aspx?id=43037).
 
 
-My research in a few words (Last update: November, 2023):
+My research in a few words (Last update: October 2024):
 
-<img width="100%" src="/images/word_cloud.png"/>
-
-## Active Projects
-
-- Scalable and Resilient Modeling for Federated-Learning-Based Complex Workflows
-- Privacy-Preserving Federated Learning on Multimodal Data
-- Randomized Algorithms for Solving Massive Discrete Optimization Problems
-- [PALISADE-X: Privacy Preserving Analysis and Learning in Secure and Distributed Enclaves and Exascale Systems](https://www.energy.gov/science/articles/department-energy-invests-1-million-artificial-intelligence-research-privacy)
-- [Data-Driven Optimization under Uncertainty: Parallel Algorithms and Solver](https://www.anl.gov/mcs/datadriven-optimization-under-uncertainty-parallel-algorithms-and-solver)
-- [ExaSGD: Optimizing Stochastic Grid Dynamics at Exascale](https://www.exascaleproject.org/research-group/data-analytics-and-optimization/)
-- [Advanced Grid Modeling](https://www.anl.gov/es/advanced-grid-modeling)
+<img width="100%" src="/images/word_cloud_20241006.png"/>
 
 ## Awards and Honors
 
@@ -32,6 +22,10 @@ My research in a few words (Last update: November, 2023):
 
 ## Media
 
+- [Presentation at the DOE ASCAC Meeting](https://science.osti.gov/-/media/ascr/ascac/pdf/meetings/2024/ASCAC-2024-ANL-Kim.pdf), Sep 2024
+- [Mentioned by the DOE Under Secretary](https://youtu.be/6Ge0oMdGwQo?si=vpooytdWLA7bU862&t=8058), May 2024
+- [Highlighted at the DOE ASCAC Meeting](https://science.osti.gov/-/media/ascr/ascac/pdf/meetings/202309/Finkel-ASCAC-Sept2023.pdf), Sep 2023
+- [Highlighted at the DOE ASCAC Meeting](https://science.osti.gov/-/media/ascr/ascac/pdf/meetings/202203/ASCAC_202203_Presentation_Helland.pdf), Mar 2022
 - [SIAG/OPT Views and News](http://wiki.siam.org/siag-op/images/siag-op/e/e8/ViewsAndNews-29-1.pdf), Dec 2021
 - [Banishing blackouts](https://deixismagazine.org/2020/10/banishing-blackouts/), Oct 2020
 - [How does AI improve grid performance? No one fully understands and that's limiting its use](https://www.utilitydive.com/news/how-does-ai-improve-grid-performance-no-one-fully-understands-and-thats-l/566997/), Nov 2019
@@ -44,7 +38,7 @@ My research in a few words (Last update: November, 2023):
 
 - Yijiang Li (2023--present)
 - Charikleia Iakovidou (2022--present)
-- Hideaki Nakao (2021--present)
+- Hideaki Nakao (2021--2024)
 - [Minseok Ryu](https://sites.google.com/view/minseokryu) (2020--2023)
 - [Geunyeong Byeon](https://sites.google.com/asu.edu/geunyeongbyeon/home) (2020)
 - Bowen Li (2019--2023; with Sven Leyffer)
@@ -59,7 +53,10 @@ My research in a few words (Last update: November, 2023):
 
 ### Ph.D. Interns
 
-- Shourya Bose (UC Santa Clara, 2023)
+- Guangji Bai (Emory, 2024; with Yijiang Li)
+; Xu Chen (Columbia, 2024)
+; Shuai Li (Georgia Tech, 2024)
+; Shourya Bose (UC Santa Clara, 2023)
 ; Weiqi Zhang (University of Wisconsin-Madison, 2022)
 ; Rachael Alfant (Rice University, 2022)
 ; Nick Dodd (Arizona State University, 2022)

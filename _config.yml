@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
   This is a personal website.
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://kibaekkim.github.io" # the base hostname & protocol for your site
-twitter_username: kkimopt
-github_username:  kibaekkim
+# linkedin_username: kibaekkim
+# github_username:  kibaekkim
 permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
@@ -20,6 +20,7 @@ theme: minima
 plugins:
   - jekyll-scholar
 
-scholar:
-  style: institute-for-operations-research-and-the-management-sciences
-  bibliography_template: bibtemplate 
+social_links:
+  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=RE9h8MsAAAAJ&hl=en" }
+  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/kibaekkim" }
+  - { platform: github,         user_url: "https://github.com/kibaekkim" }
