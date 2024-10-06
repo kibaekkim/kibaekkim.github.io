@@ -56,7 +56,7 @@ My research in a few words (Last update: October 2024):
 - Guangji Bai (Emory, 2024; with Yijiang Li)
 ; Xu Chen (Columbia, 2024)
 ; Shuai Li (Georgia Tech, 2024)
-; Shourya Bose (UC Santa Clara, 2023)
+; Shourya Bose (UC Santa Clara, 2024, 2023)
 ; Weiqi Zhang (University of Wisconsin-Madison, 2022)
 ; Rachael Alfant (Rice University, 2022)
 ; Nick Dodd (Arizona State University, 2022)
