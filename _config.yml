@@ -17,9 +17,6 @@ gems:
 markdown: kramdown
 theme: minima
 
-plugins:
-  - jekyll-scholar
-
 social_links:
   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=RE9h8MsAAAAJ&hl=en" }
   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/kibaekkim" }
