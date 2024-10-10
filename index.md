@@ -25,6 +25,7 @@ My research in a few words (Last update: October 2024):
 
 ## Media
 
+- [Argonne receives funding for artificial intelligence in scientific research](https://www.anl.gov/article/argonne-receives-funding-for-artificial-intelligence-in-scientific-research), Oct 2024
 - [Presentation at the DOE ASCAC Meeting](https://science.osti.gov/-/media/ascr/ascac/pdf/meetings/2024/ASCAC-2024-ANL-Kim.pdf), Sep 2024
 - [Mentioned by the DOE Under Secretary](https://youtu.be/6Ge0oMdGwQo?si=vpooytdWLA7bU862&t=8058), May 2024
 - [Highlighted at the DOE ASCAC Meeting](https://science.osti.gov/-/media/ascr/ascac/pdf/meetings/202309/Finkel-ASCAC-Sept2023.pdf), Sep 2023
