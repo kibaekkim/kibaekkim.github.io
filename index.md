@@ -25,6 +25,8 @@ My research in a few words (Last update: October 2024):
 
 ## Media
 
+- [Argonne at NeurIPS 2024](https://www.anl.gov/mcs/article/argonne-at-neurips-2024), Dec 2024
+- [MCS researcher Kibaek Kim gives talk to science committee](https://www.anl.gov/mcs/article/mcs-researcher-kibaek-kim-gives-talk-to-science-committee), Oct 2024
 - [Argonne receives funding for artificial intelligence in scientific research](https://www.anl.gov/article/argonne-receives-funding-for-artificial-intelligence-in-scientific-research), Oct 2024
 - [Presentation at the DOE ASCAC Meeting](https://science.osti.gov/-/media/ascr/ascac/pdf/meetings/2024/ASCAC-2024-ANL-Kim.pdf), Sep 2024
 - [Mentioned by the DOE Under Secretary](https://youtu.be/6Ge0oMdGwQo?si=vpooytdWLA7bU862&t=8058), May 2024
