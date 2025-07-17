@@ -25,6 +25,7 @@ My research in a few words (Last update: October 2024):
 
 ## Media
 
+- [Harnessing LLMs for Scientific Computing](https://www.hpcwire.com/2025/05/29/harnessing-llms-for-scientific-computing/), May 2025
 - [Argonne at NeurIPS 2024](https://www.anl.gov/mcs/article/argonne-at-neurips-2024), Dec 2024
 - [MCS researcher Kibaek Kim gives talk to science committee](https://www.anl.gov/mcs/article/mcs-researcher-kibaek-kim-gives-talk-to-science-committee), Oct 2024
 - [Argonne receives funding for artificial intelligence in scientific research](https://www.anl.gov/article/argonne-receives-funding-for-artificial-intelligence-in-scientific-research), Oct 2024
@@ -42,6 +43,7 @@ My research in a few words (Last update: October 2024):
 
 ### Postdoctoral Appointees
 
+- Emon Dey (2025--present)
 - Yijiang Li (2023--present)
 - Charikleia Iakovidou (2022--present)
 - Hideaki Nakao (2021--2024)
@@ -59,7 +61,9 @@ My research in a few words (Last update: October 2024):
 
 ### Ph.D. Interns
 
-- Guangji Bai (Emory, 2024; with Yijiang Li)
+- David Jin (MIT, 2025)
+; Christopher Lee (UIUC, 2025)
+; Guangji Bai (Emory, 2024; with Yijiang Li)
 ; Xu Chen (Columbia, 2024)
 ; Shuai Li (Georgia Tech, 2024)
 ; Shourya Bose (UC Santa Clara, 2024, 2023)
