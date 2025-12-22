@@ -10,9 +10,9 @@ I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numer
 - See my [GitHub](https://www.linkedin.com/in/kibaekkim) page for software packages.
 - Check out the [website](https://appfl.ai) for our privacy-preserving federated learning project.
 
-My research in a few words (Last update: October 2024):
+My research in a few words (Last update: December 2025):
 
-<img width="100%" src="/images/word_cloud_20241006.png"/>
+<img width="100%" src="/images/word_cloud_20251221.png"/>
 
 ## Awards and Honors
 
@@ -25,6 +25,8 @@ My research in a few words (Last update: October 2024):
 
 ## Media
 
+- [Argonne OutLoud public lecture: "A Win-Win: AI Empowering the Grid, the Grid Energizing AI"](https://www.anl.gov/event/a-winwin-ai-empowering-the-grid-the-grid-energizing-ai), Sep 2025
+- [AI helps build smarter, more resilient power grids](https://www.businesswire.com/news/home/20250515319725/en/AI-helps-build-smarter-more-resilient-power-grids), May 2025
 - [Harnessing LLMs for Scientific Computing](https://www.hpcwire.com/2025/05/29/harnessing-llms-for-scientific-computing/), May 2025
 - [Argonne at NeurIPS 2024](https://www.anl.gov/mcs/article/argonne-at-neurips-2024), Dec 2024
 - [MCS researcher Kibaek Kim gives talk to science committee](https://www.anl.gov/mcs/article/mcs-researcher-kibaek-kim-gives-talk-to-science-committee), Oct 2024
@@ -43,9 +45,10 @@ My research in a few words (Last update: October 2024):
 
 ### Postdoctoral Appointees
 
+- Seok-Ju (Adam) Hahn (2025--present)
 - Emon Dey (2025--present)
 - Yijiang Li (2023--present)
-- Charikleia Iakovidou (2022--present)
+- Charikleia Iakovidou (2022--2025)
 - Hideaki Nakao (2021--2024)
 - [Minseok Ryu](https://sites.google.com/view/minseokryu) (2020--2023)
 - [Geunyeong Byeon](https://sites.google.com/asu.edu/geunyeongbyeon/home) (2020)
