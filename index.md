@@ -4,7 +4,7 @@ layout: default
 
 <img style="float:right;padding:20px;" width="200" src="/images/Kim-photoshot.jpg"/>
 
-I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numerical Software, and Statistics](https://www.anl.gov/mcs/lans), [Mathematics and Computer Science Division](https://www.anl.gov/mcs) at [Argonne National Laboratory](https://www.anl.gov), and a Senior Scientist at-Large at [the University of Chicago Consortium for Advanced Science and Engineering](https://researchinnovation.uchicago.edu/research-support/case/). My research focuses on federated learning algorithms and software development, as well as modeling and numerical algorithms for large-scale optimization on high-performance computing systems and GPUs. My work is applied to areas including electric grid systems, healthcare, and key scientific domains of interest to the Department of Energy. Before joining Argonne, I obtained a Ph.D. degree in Industrial Engineering and Management Sciences from Northwestern University ([my academic tree](/images/academic_tree.jpg)). I am a recipient of DOE Early Career Research Program award. I serve as associate editors in [Mathematical Programming Computation](https://www.springer.com/journal/12532) and [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750) and board members for [COIN-OR Foundation](https://www.coin-or.org) and [IISE Energy Systems](https://www.iise.org/details.aspx?id=43037).
+I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numerical Software, and Statistics](https://www.anl.gov/mcs/lans), [Mathematics and Computer Science Division](https://www.anl.gov/mcs) at [Argonne National Laboratory](https://www.anl.gov), and a Senior Scientist at-Large at [the University of Chicago Consortium for Advanced Science and Engineering](https://researchinnovation.uchicago.edu/research-support/case/). My research focuses on foundation models, agentic AI and LLM multi-agent systems, privacy-preserving federated learning, and large-scale optimization on high-performance computing systems and GPUs for scientific discovery. I lead Argonne's foundation-model and agentic-AI programs, including LUMINA (topology-transferable foundation models), GridMind (multi-agent LLM workflow), and APPFL (privacy-preserving federated learning framework), applied to areas including electric grid systems, healthcare, and key scientific domains of interest to the Department of Energy. Before joining Argonne, I obtained a Ph.D. degree in Industrial Engineering and Management Sciences from Northwestern University ([my academic tree](/images/academic_tree.jpg)). I am a recipient of DOE Early Career Research Program award. I serve as associate editors in [Mathematical Programming Computation](https://www.springer.com/journal/12532) and [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750) and board members for [COIN-OR Foundation](https://www.coin-or.org) and [IISE Energy Systems](https://www.iise.org/details.aspx?id=43037).
 
 - See my [Google Scholar](https://scholar.google.com/citations?user=RE9h8MsAAAAJ&hl=en) page for publications.
 - See my [GitHub](https://www.linkedin.com/in/kibaekkim) page for software packages.
@@ -20,11 +20,21 @@ My research in a few words (Last update: December 2025):
 - IMPACT Argonne Award (Computing, Environment and Life Sciences directorate), September 2021
 - IMPACT Argonne Award (Energy and Global Security directorate), August 2021
 - Early Career Research Program, US Department of Energy, 2019
+- Employee of the Month, Decision and Infrastructure Sciences Division, Argonne National Laboratory, 2019
 - George L. Nemhauser Best Student Paper, Northwestern University, 2014
 - Best Poster Award (selected among nearly 2,000 posters), American College of Cardiology's 61st Annual Scientific Session & Expo, 2012
 
 ## Media
 
+- [AI agents and foundation models highlighted at the Genesis Mission Summit](https://orau.gov/GenesisSummit), Jul 2026
+- [Argonne at TPC 2026](https://www.anl.gov/cels/article/argonne-at-tpc26), Jun 2026
+- [DOE Under Secretary of Science TPC Keynote highlighting GridAI and SYNAPS-I/PtychoFM](https://tpc26.org/), Jun 2026
+- ["GridMind: Powering the Control Room of the Future with AI Agents"](https://www.anl.gov/article/gridmind-powering-the-control-room-of-the-future-with-ai-agents), Mar 2026
+- ["Argonne Researchers Develop AI System to Enhance Electric Grid Efficiency and Reliability"](https://www.hpcwire.com/aiwire/2026/03/27/argonne-researchers-develop-ai-system-to-enhance-electric-grid-efficiency-and-reliability/), Mar 2026
+- ["Advances in AI for Science: DOE's National Laboratories"](https://science.osti.gov/-/media/About/pdf/scac/meetings/2026/lab-contributions-to-GM-03-24-2026v2.pdf), DOE Office of Science Advisory Committee, Mar 2026
+- ["Seven Argonne projects receive computing time to power breakthroughs in AI, science and engineering"](https://www.anl.gov/article/seven-argonne-projects-receive-computing-time-to-power-breakthroughs-in-ai-science-and-engineering), Jul 2025
+- ["Advancing grid intelligence: Argonne hosts workshop on AI foundation models"](https://www.anl.gov/article/advancing-grid-intelligence-argonne-hosts-workshop-on-ai-foundation-models), May 2025
+- ["Real-time AI engine poised to revolutionize large-scale imaging data at national labs" (SYNAPS-I)](https://www.anl.gov/article/realtime-ai-engine-poised-to-revolutionize-largescale-imaging-data-at-national-labs), Apr 2025
 - [Argonne OutLoud public lecture: "A Win-Win: AI Empowering the Grid, the Grid Energizing AI"](https://www.anl.gov/event/a-winwin-ai-empowering-the-grid-the-grid-energizing-ai), Sep 2025
 - [AI helps build smarter, more resilient power grids](https://www.businesswire.com/news/home/20250515319725/en/AI-helps-build-smarter-more-resilient-power-grids), May 2025
 - [Harnessing LLMs for Scientific Computing](https://www.hpcwire.com/2025/05/29/harnessing-llms-for-scientific-computing/), May 2025
@@ -64,7 +74,8 @@ My research in a few words (Last update: December 2025):
 
 ### Ph.D. Interns
 
-- David Jin (MIT, 2025)
+- Sungmin Kang (USC, 2026)
+; David Jin (MIT, 2025)
 ; Christopher Lee (UIUC, 2025)
 ; Guangji Bai (Emory, 2024; with Yijiang Li)
 ; Xu Chen (Columbia, 2024)
