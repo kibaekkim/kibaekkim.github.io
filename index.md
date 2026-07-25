@@ -57,7 +57,7 @@ My research in a few words (Last update: December 2025):
 
 - Seok-Ju (Adam) Hahn (2025--present)
 - Emon Dey (2025--present)
-- Yijiang Li (2023--present)
+- Yijiang Li (2023--2026; staff scientist at Argonne)
 - Charikleia Iakovidou (2022--2025)
 - Hideaki Nakao (2021--2024)
 - [Minseok Ryu](https://sites.google.com/view/minseokryu) (2020--2023)
