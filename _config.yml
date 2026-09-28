@@ -15,6 +15,11 @@ gems:
 markdown: kramdown
 theme: minima
 
+# Keep the top nav empty. minima auto-lists every page that has a `title:`,
+# so without this, adding a title to a page would put it in the header.
+header_pages:
+  - index.md
+
 linkedin_username: kibaekkim
 github_username:  kibaekkim
 # social_links:

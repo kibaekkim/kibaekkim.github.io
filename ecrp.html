@@ -1,0 +1,331 @@
+---
+layout: default
+title: Early Career Research Program
+permalink: /ecrp/
+description: "Closing notes on a DOE Early Career Research Program award — Data-Driven Optimization under Uncertainty, 2020 to 2026."
+---
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,600;1,7..72,400&family=IBM+Plex+Sans:wght@400;600&display=swap">
+
+<style>
+.ecrp {
+  --paper:    #fcfcfa;
+  --ink:      #1b2430;
+  --ink-soft: #5a6472;
+  --rule:     #dcdedb;
+  --mark:     #59636f;
+  --link:     #1d5ba6;
+  --figure:   #a8781a;
+
+  --serif: "Literata", Georgia, "Times New Roman", serif;
+  --sans:  "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+
+  font-family: var(--serif);
+  color: var(--ink);
+  font-size: 18px;
+  line-height: 1.62;
+  -webkit-font-smoothing: antialiased;
+}
+
+.ecrp-kicker {
+  font-family: var(--sans);
+  font-size: 13.5px;
+  color: var(--ink-soft);
+  margin: 0 0 1rem;
+}
+
+.ecrp h1 {
+  font-family: var(--serif);
+  font-size: 2.4rem;
+  line-height: 1.13;
+  font-weight: 600;
+  letter-spacing: -0.018em;
+  margin: 0 0 0.9rem;
+  max-width: 16ch;
+}
+
+.ecrp-deck {
+  font-size: 1.34rem;
+  line-height: 1.45;
+  color: var(--ink-soft);
+  margin: 0 0 3rem;
+  max-width: 38ch;
+}
+
+/* ---------- movements ---------- */
+
+.ecrp-mv { margin-bottom: 2.9rem; }
+
+.ecrp-mv h2 {
+  font-family: var(--serif);
+  font-size: 1.44rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+  margin: 0 0 1rem;
+  padding-top: 0.95rem;
+  position: relative;
+}
+
+.ecrp-mv h2::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2.4rem;
+  height: 2px;
+  background: var(--mark);
+}
+
+.ecrp-mv p { margin: 0 0 1.05rem; max-width: 62ch; }
+.ecrp-mv p:last-child { margin-bottom: 0; }
+
+/* ---------- the figure ---------- */
+
+.ecrp-fig {
+  float: right;
+  width: 196px;
+  margin: 0.35rem 0 1.1rem 1.9rem;
+}
+.ecrp-fig svg { width: 100%; height: auto; display: block; }
+.ecrp-fig figcaption {
+  font-family: var(--sans);
+  font-size: 12px;
+  line-height: 1.45;
+  color: var(--ink-soft);
+  margin-top: 0.55rem;
+}
+
+/* ---------- quote ---------- */
+
+.ecrp blockquote {
+  margin: 1.5rem 0;
+  padding: 0 0 0 1.25rem;
+  border-left: 2px solid var(--link);
+  font-size: 1.2rem;
+  line-height: 1.5;
+  font-style: italic;
+  max-width: 50ch;
+}
+
+.ecrp blockquote cite {
+  display: block;
+  font-family: var(--sans);
+  font-size: 12px;
+  font-style: normal;
+  color: var(--ink-soft);
+  margin-top: 0.55rem;
+}
+
+/* ---------- close ---------- */
+
+.ecrp-close {
+  border-top: 1px solid var(--ink);
+  margin-top: 3.2rem;
+  padding-top: 1.8rem;
+}
+
+.ecrp-close > p {
+  font-size: 1.32rem;
+  line-height: 1.45;
+  max-width: 47ch;
+  margin: 0 0 2.4rem;
+  text-wrap: pretty;
+}
+
+.ecrp-ledger { margin: 0 0 2.2rem; }
+
+.ecrp-ledger h2 {
+  font-family: var(--sans);
+  font-size: 14.5px;
+  font-weight: 600;
+  margin: 0 0 0.95rem;
+}
+
+.ecrp-sum {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.3rem 2.6rem;
+  margin: 0 0 1.15rem;
+}
+
+.ecrp-sum div { flex: 1 1 130px; min-width: 0; }
+
+.ecrp-sum b {
+  display: block;
+  font-family: var(--sans);
+  font-size: 1.62rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+  color: var(--figure);
+}
+
+.ecrp-sum span {
+  display: block;
+  font-family: var(--sans);
+  font-size: 13px;
+  line-height: 1.38;
+  color: var(--ink-soft);
+  margin-top: 0.28rem;
+}
+
+.ecrp-note {
+  font-size: 0.95rem;
+  line-height: 1.55;
+  color: var(--ink-soft);
+  max-width: 62ch;
+  margin: 0;
+}
+
+.ecrp-more {
+  font-family: var(--sans);
+  font-size: 14px;
+  line-height: 1.75;
+  color: var(--ink-soft);
+  border-top: 1px solid var(--rule);
+  padding-top: 1.2rem;
+}
+.ecrp-more ul { margin: 0; padding-left: 1.1rem; }
+
+.ecrp a { color: var(--link); text-decoration: none; border-bottom: 1px solid rgba(29,91,166,0.3); }
+.ecrp a:hover { color: var(--ink); border-bottom-color: var(--ink); }
+.ecrp a:focus-visible { outline: 2px solid var(--link); outline-offset: 2px; border-radius: 1px; }
+
+@media (max-width: 620px) {
+  .ecrp { font-size: 17px; }
+  .ecrp h1 { font-size: 1.9rem; max-width: none; }
+  .ecrp-deck { font-size: 1.18rem; max-width: none; margin-bottom: 2.3rem; }
+  .ecrp-mv { margin-bottom: 2.3rem; }
+  .ecrp-mv h2 { font-size: 1.3rem; }
+  .ecrp-fig { float: none; width: 100%; max-width: 210px; margin: 0.4rem 0 1.3rem; }
+  .ecrp blockquote { font-size: 1.1rem; }
+  .ecrp-close > p { font-size: 1.18rem; }
+  .ecrp-sum div { flex: 1 1 40%; }
+}
+
+@media (max-width: 380px) {
+  .ecrp h1 { font-size: 1.68rem; }
+}
+</style>
+
+<article class="ecrp">
+
+<p class="ecrp-kicker">DOE Early Career Research Program, Office of Science, 2020&ndash;2026</p>
+<h1>Data-Driven Optimization under Uncertainty</h1>
+<p class="ecrp-deck">Closing notes on a five-year award that took seven, and the question it did not settle.</p>
+
+<section class="ecrp-mv">
+  <h2>The objection</h2>
+
+  <figure class="ecrp-fig">
+    <svg viewBox="0 0 244 214" role="img" aria-label="A scenario tree: one starting point branching into three futures and then into five, with probabilities 0.08, 0.12, 0.30, 0.05 and 0.45. A fainter second tree with different branches is drawn behind it.">
+      <g fill="none" stroke="#59636f" stroke-width="1" opacity="0.22">
+        <path d="M16 107 L104 30 M16 107 L104 96 M16 107 L104 186
+                 M104 30 L192 12 M104 30 L192 52
+                 M104 96 L192 84 M104 96 L192 120
+                 M104 186 L192 172 M104 186 L192 202"/>
+        <g fill="#59636f" stroke="none">
+          <circle cx="16" cy="107" r="2.6"/>
+          <circle cx="104" cy="30" r="2.6"/><circle cx="104" cy="96" r="2.6"/><circle cx="104" cy="186" r="2.6"/>
+          <circle cx="192" cy="12" r="2.6"/><circle cx="192" cy="52" r="2.6"/><circle cx="192" cy="84" r="2.6"/>
+          <circle cx="192" cy="120" r="2.6"/><circle cx="192" cy="172" r="2.6"/><circle cx="192" cy="202" r="2.6"/>
+        </g>
+      </g>
+      <g fill="none" stroke="#1b2430" stroke-width="1.25">
+        <path d="M16 107 L104 44 M16 107 L104 107 M104 107 L192 107 M16 107 L104 174
+                 M104 44 L192 22 M104 44 L192 66
+                 M104 174 L192 152 M104 174 L192 192"/>
+      </g>
+      <g fill="#1b2430">
+        <circle cx="16" cy="107" r="3.4"/>
+        <circle cx="104" cy="44" r="3.4"/><circle cx="104" cy="107" r="3.4"/><circle cx="104" cy="174" r="3.4"/>
+      </g>
+      <g fill="#fcfcfa" stroke="#1b2430" stroke-width="1.25">
+        <circle cx="192" cy="22" r="3.4"/><circle cx="192" cy="66" r="3.4"/><circle cx="192" cy="107" r="3.4"/>
+        <circle cx="192" cy="152" r="3.4"/><circle cx="192" cy="192" r="3.4"/>
+      </g>
+      <g font-family="IBM Plex Sans, sans-serif" font-size="10.5" fill="#5a6472">
+        <text x="203" y="25.5">0.08</text><text x="203" y="69.5">0.12</text><text x="203" y="110.5">0.30</text>
+        <text x="203" y="155.5">0.05</text><text x="203" y="195.5">0.45</text>
+      </g>
+    </svg>
+    <figcaption>Two readings of the same data, two different trees of futures. You do not get to know which one you are in.</figcaption>
+  </figure>
+
+  <p>I wrote the proposal around one objection. Almost every method for deciding under uncertainty begins by assuming you know the odds: estimate a distribution from past data, then find the plan that does best against it. My argument was that the distribution you estimated is not the one you will meet, and a plan tuned tightly to an estimate can fail badly when the estimate is only a little wrong.</p>
+
+  <p>So carry a whole set of plausible distributions instead of one, and choose the plan that survives the worst of them — across a sequence of decisions rather than a single shot. Then make it run on machines large enough to matter: thousands of pieces solved at once, on GPUs, tolerating pieces that arrive late or only half-solved.</p>
+
+  <p>The proposal named two places to try it. The first was the electric grid. The second, two pages near the back, was training models across many small computers that could not share their data.</p>
+
+  <blockquote>
+    This sensitivity, known as the optimizer's curse, is due to overfitting effects, as also seen in machine learning.
+    <cite>Project narrative, April 2019</cite>
+  </blockquote>
+
+  <p>I did not think much about that sentence when I wrote it.</p>
+</section>
+
+<section class="ecrp-mv">
+  <h2>What I did not expect</h2>
+  <p>The second application took over.</p>
+  <p>It began with a differentially private federated learning method built on inexact ADMM — an algorithm from the award, aimed at the problem the award had treated as an afterthought. It transferred almost without modification, and once it did, the centre of the work moved with it.</p>
+  <p>I could call that a project that drifted. I would rather say what actually happened, which is that the mathematics turned out to be about something larger than the frame I had put around it.</p>
+</section>
+
+<section class="ecrp-mv">
+  <h2>Why it was not a detour</h2>
+  <p>The set of plausible distributions was never really about probability. It was about the gap between the data I have and the world I work in.</p>
+  <p>Federated learning is that gap made physical. Every hospital, every X-ray facility, every utility holds one slice of the data. No slice is the truth. The model has to work for all of them. And the same machinery applies: a decomposition method splits one large problem into pieces solved separately and reconciles them through a coordinating step; federated learning trains copies of a model at sites that will not hand over their data and reconciles them the same way.</p>
+</section>
+
+<section class="ecrp-mv">
+  <h2>What the award leaves behind</h2>
+  <p>The mathematics held on its own terms. The theory of splitting distributionally robust integer problems and putting the answers back together was given a semi-plenary at the International Conference on Stochastic Programming — the community the proposal had been written for, saying the work had landed. The promise to use GPUs was kept, though not in the shape I imagined: instead of accelerating one step inside a decomposition method, we moved whole power flow calculations onto them.</p>
+
+  <p>APPFL, the open software for privacy-preserving federated learning, came out of the second application and is still maintained. It is the thing people actually picked up.</p>
+
+  <p>Four postdoctoral researchers came through the project — Geunyeong Byeon, Minseok Ryu, Hideaki Nakao and Charikleia Iakovidou — along with about twenty visiting graduate students. Geunyeong and Minseok are both now on the faculty at Arizona State, and Minseok is a co-investigator on what followed.</p>
+
+  <p>The award was funded for five years and ran for seven. Careful spending left carry-over, and two no-cost extension years followed. They did not behave like a coda: they produced the journal papers the earlier years had set up, and they overlapped with the beginning of everything that came after. For two years the award was running at the same time as the work that replaced it. The question was never handed over at a boundary. It changed names while the original grant was still paying for it.</p>
+</section>
+
+<section class="ecrp-mv">
+  <h2>What it handed off to</h2>
+  <p>In September 2024, partway through the extension, I spoke to DOE's Advanced Scientific Computing Advisory Committee and called the talk <i>Building on Success: Advancing Privacy-Preserving Federated Learning with Distributed Optimization</i>. I was making the case for the successor while the original was still running.</p>
+
+  <p>That successor is <i>Privacy-Preserving Federated Learning for Science</i>, part of DOE's AI for Science program: building foundation models across DOE facilities without moving any facility's data. Around it now sit foundation models for the grid, two Genesis Mission projects, a CESER project on privacy in grid operations, and a CMEI project on interconnecting large loads.</p>
+
+  <p>There is an inversion in this I did not see coming. The proposal put distributed learning at the edge of the network: many small computers, too little bandwidth to send their data anywhere. The work now runs at the other end of the scale — federated learning across DOE supercomputers, training one model on several leadership machines at once. It also cashes the part of the proposal I thought was about something else. I had promised algorithms that keep working when some pieces arrive late or only half-finished; when the pieces are jobs waiting in the batch queues of different facilities, that tolerance stops being a refinement and becomes the whole problem.</p>
+
+  <p>The hard part has not moved. A model trained on the grids we have will be asked about a grid it has never seen. The data it learned from is not the world it will be used in. In 2019 I called that distributional ambiguity. Now I call it generalization.</p>
+</section>
+
+<div class="ecrp-close">
+  <p>It ended this year. An Early Career award buys five years to be wrong about the details — seven, in my case. My error was one of filing. I listed distributed learning across sites as an application, a place to try the method out. It was not an application. It was a second home for the question, and the question is the part I got right.</p>
+
+  <div class="ecrp-ledger">
+    <h2>What the question has drawn</h2>
+    <div class="ecrp-sum">
+      <div><b>$2.5M</b><span>the Early Career award, 2020 to 2026</span></div>
+      <div><b>$24M</b><span>alongside it and since</span></div>
+      <div><b>14</b><span>projects as lead or co-investigator</span></div>
+    </div>
+    <p class="ecrp-note">Counting the Early Career award and the work that grew from it: privacy-preserving federated learning from PALISADE through <i>Federated Learning for Science</i>, the grid foundation-model line, two Genesis Mission projects, the CESER privacy project and the CMEI large-load project. Figures are total project value, including work led elsewhere on projects where I am a co-investigator.</p>
+  </div>
+
+  <div class="ecrp-more">
+    <ul>
+      <li><a href="https://www.anl.gov/mcs/article/kibaek-kim-receives-early-career-award">Argonne's announcement</a> of the award, August 2019</li>
+      <li><a href="https://appfl.ai">APPFL</a> — privacy-preserving federated learning</li>
+      <li><a href="https://huggingface.co/argonne/LUMINA-2M">LUMINA-2M</a> — grid foundation model on Hugging Face</li>
+      <li><a href="https://scholar.google.com/citations?user=RE9h8MsAAAAJ&amp;hl=en">Publications</a> on Google Scholar</li>
+      <li><a href="/">Back to the main page</a></li>
+    </ul>
+  </div>
+</div>
+
+</article>

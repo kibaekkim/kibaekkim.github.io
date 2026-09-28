@@ -4,10 +4,11 @@ layout: default
 
 <img style="float:right;padding:20px;" width="200" src="/images/Kim-photoshot.jpg"/>
 
-I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numerical Software, and Statistics](https://www.anl.gov/mcs/lans), [Mathematics and Computer Science Division](https://www.anl.gov/mcs) at [Argonne National Laboratory](https://www.anl.gov), and a Senior Scientist at-Large at [the University of Chicago Consortium for Advanced Science and Engineering](https://researchinnovation.uchicago.edu/research-support/case/). My research focuses on foundation models, agentic AI and LLM multi-agent systems, privacy-preserving federated learning, and large-scale optimization on high-performance computing systems and GPUs for scientific discovery. I lead Argonne's foundation-model and agentic-AI programs, including LUMINA (topology-transferable foundation models), GridMind (multi-agent LLM workflow), and APPFL (privacy-preserving federated learning framework), applied to areas including electric grid systems, healthcare, and key scientific domains of interest to the Department of Energy. Before joining Argonne, I obtained a Ph.D. degree in Industrial Engineering and Management Sciences from Northwestern University ([my academic tree](/images/academic_tree.jpg)). I am a recipient of DOE Early Career Research Program award. I serve as associate editors in [Mathematical Programming Computation](https://www.springer.com/journal/12532) and [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750) and board members for [COIN-OR Foundation](https://www.coin-or.org) and [IISE Energy Systems](https://www.iise.org/details.aspx?id=43037).
+I am a Computational Mathematician in [Laboratory for Applied Mathematics, Numerical Software, and Statistics](https://www.anl.gov/mcs/lans), [Mathematics and Computer Science Division](https://www.anl.gov/mcs) at [Argonne National Laboratory](https://www.anl.gov), and a Senior Scientist at-Large at [the University of Chicago Consortium for Advanced Science and Engineering](https://research.uchicago.edu/case). My research focuses on foundation models, agentic AI and LLM multi-agent systems, privacy-preserving federated learning, and large-scale optimization on high-performance computing systems and GPUs for scientific discovery. I lead Argonne's foundation-model and agentic-AI programs, including LUMINA (topology-transferable foundation models), GridMind (multi-agent LLM workflow), and APPFL (privacy-preserving federated learning framework), applied to areas including electric grid systems, healthcare, and key scientific domains of interest to the Department of Energy. Before joining Argonne, I obtained a Ph.D. degree in Industrial Engineering and Management Sciences from Northwestern University ([my academic tree](/images/academic_tree.jpg)). I am a recipient of DOE Early Career Research Program award. I serve as an associate editor for [Mathematical Programming Computation](https://www.springer.com/journal/12532) and an area editor for [Naval Research Logistics](https://onlinelibrary.wiley.com/journal/15206750), and I previously served on the [COIN-OR Foundation](https://www.coin-or.org) Strategic Leadership Board and the [IISE Energy Systems Division](https://www.iise.org/details.aspx?id=43037) board (2023--2025).
 
+- Read [closing notes on my DOE Early Career award](/ecrp/) — what it funded, and what it became.
 - See my [Google Scholar](https://scholar.google.com/citations?user=RE9h8MsAAAAJ&hl=en) page for publications.
-- See my [GitHub](https://www.linkedin.com/in/kibaekkim) page for software packages.
+- See my [GitHub](https://github.com/kibaekkim) page for software packages.
 - Check out the [website](https://appfl.ai) for our privacy-preserving federated learning project.
 
 My research in a few words (Last update: December 2025):
@@ -16,10 +17,11 @@ My research in a few words (Last update: December 2025):
 
 ## Awards and Honors
 
+- IMPACT Argonne Award (Photon Sciences directorate), for contributions to the SYNAPS-I foundation model, July 2026
 - IEEE Senior Member, 2022
 - IMPACT Argonne Award (Computing, Environment and Life Sciences directorate), September 2021
 - IMPACT Argonne Award (Energy and Global Security directorate), August 2021
-- Early Career Research Program, US Department of Energy, 2019
+- [Early Career Research Program](/ecrp/), US Department of Energy, 2019
 - Employee of the Month, Decision and Infrastructure Sciences Division, Argonne National Laboratory, 2019
 - George L. Nemhauser Best Student Paper, Northwestern University, 2014
 - Best Poster Award (selected among nearly 2,000 posters), American College of Cardiology's 61st Annual Scientific Session & Expo, 2012
@@ -75,12 +77,16 @@ My research in a few words (Last update: December 2025):
 ### Ph.D. Interns
 
 - Sungmin Kang (USC, 2026)
+; Zeeshan Memon (Emory University, 2025--present)
 ; David Jin (MIT, 2025)
 ; Christopher Lee (UIUC, 2025)
+; Keunju Song (Sogang University, 2025)
 ; Guangji Bai (Emory, 2024; with Yijiang Li)
 ; Xu Chen (Columbia, 2024)
 ; Shuai Li (Georgia Tech, 2024)
-; Shourya Bose (UC Santa Clara, 2024, 2023)
+; Shourya Bose (UC Santa Cruz, 2024, 2023)
+; Jinwen Yang (University of Chicago, 2023)
+; Julie Anh Nguyen (Northwestern University, 2023; with Wendy Di)
 ; Weiqi Zhang (University of Wisconsin-Madison, 2022)
 ; Rachael Alfant (Rice University, 2022)
 ; Nick Dodd (Arizona State University, 2022)
